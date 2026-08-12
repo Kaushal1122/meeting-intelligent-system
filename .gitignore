@@ -1,0 +1,33 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment / secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Model/cache files
+.cache/
+huggingface/
+.cache/huggingface/
+
+# Large audio/video files
+*.wav
+*.mp3
+*.mp4
+*.flac
+*.m4a
+
+# Temporary files
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

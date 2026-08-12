@@ -1,0 +1,63 @@
+{
+    "meeting_id": "test_transcript",
+    "language": "en",
+    "source": "text",
+    "segments": [
+        {
+            "speaker": "Laura",
+            "start": null,
+            "end": null,
+            "raw_text": "Good morning everyone.",
+            "clean_text": "Good morning everyone."
+        },
+        {
+            "speaker": "Laura",
+            "start": null,
+            "end": null,
+            "raw_text": "Let's start the meeting.",
+            "clean_text": "Let's start the meeting."
+        },
+        {
+            "speaker": "David",
+            "start": null,
+            "end": null,
+            "raw_text": "Yes, let's begin.",
+            "clean_text": "Yes, let's begin."
+        },
+        {
+            "speaker": "David",
+            "start": null,
+            "end": null,
+            "raw_text": "The initial design is almost complete.",
+            "clean_text": "The initial design is almost complete."
+        },
+        {
+            "speaker": "Laura",
+            "start": 83,
+            "end": null,
+            "raw_text": "Good.",
+            "clean_text": "Good."
+        },
+        {
+            "speaker": "Laura",
+            "start": 83,
+            "end": null,
+            "raw_text": "Please complete the design by Friday.",
+            "clean_text": "Please complete the design by Friday."
+        },
+        {
+            "speaker": "David",
+            "start": 90,
+            "end": null,
+            "raw_text": "I will finish it tomorrow.",
+            "clean_text": "I will finish it tomorrow."
+        },
+        {
+            "speaker": "David",
+            "start": 90,
+            "end": null,
+            "raw_text": "Then we can review it.",
+            "clean_text": "Then we can review it."
+        }
+    ]
+}
