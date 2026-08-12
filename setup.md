@@ -2,7 +2,7 @@
 
 ## 1. Clone repository
 
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Kaushal1122/meeting-intelligent-system.git
 
 cd meeting-intelligence-system
 
