@@ -1,5 +1,5 @@
 {
-    "meeting_id": "test_transcript",
+    "meeting_id": "member2_topic_test",
     "language": "en",
     "source": "text",
     "segments": [
@@ -7,57 +7,129 @@
             "speaker": "Laura",
             "start": null,
             "end": null,
-            "raw_text": "Good morning everyone.",
-            "clean_text": "Good morning everyone."
-        },
-        {
-            "speaker": "Laura",
-            "start": null,
-            "end": null,
-            "raw_text": "Let's start the meeting.",
-            "clean_text": "Let's start the meeting."
+            "raw_text": "Let's discuss the project design first.",
+            "clean_text": "Let's discuss the project design first."
         },
         {
             "speaker": "David",
             "start": null,
             "end": null,
-            "raw_text": "Yes, let's begin.",
-            "clean_text": "Yes, let's begin."
+            "raw_text": "The initial system design is almost complete.",
+            "clean_text": "The initial system design is almost complete."
+        },
+        {
+            "speaker": "Laura",
+            "start": null,
+            "end": null,
+            "raw_text": "The user interface design needs a few improvements.",
+            "clean_text": "The user interface design needs a few improvements."
         },
         {
             "speaker": "David",
             "start": null,
             "end": null,
-            "raw_text": "The initial design is almost complete.",
-            "clean_text": "The initial design is almost complete."
+            "raw_text": "I will update the login page design.",
+            "clean_text": "I will update the login page design."
         },
         {
             "speaker": "Laura",
-            "start": 83,
+            "start": null,
             "end": null,
-            "raw_text": "Good.",
-            "clean_text": "Good."
+            "raw_text": "The dashboard layout should also be reviewed.",
+            "clean_text": "The dashboard layout should also be reviewed."
+        },
+        {
+            "speaker": "David",
+            "start": null,
+            "end": null,
+            "raw_text": "We should finalize the design by Friday.",
+            "clean_text": "We should finalize the design by Friday."
+        },
+
+        {
+            "speaker": "Laura",
+            "start": null,
+            "end": null,
+            "raw_text": "Now let's discuss the database.",
+            "clean_text": "Now let's discuss the database."
+        },
+        {
+            "speaker": "David",
+            "start": null,
+            "end": null,
+            "raw_text": "The PostgreSQL database connection is working.",
+            "clean_text": "The PostgreSQL database connection is working."
         },
         {
             "speaker": "Laura",
-            "start": 83,
+            "start": null,
             "end": null,
-            "raw_text": "Please complete the design by Friday.",
-            "clean_text": "Please complete the design by Friday."
+            "raw_text": "We need to review the database schema.",
+            "clean_text": "We need to review the database schema."
         },
         {
             "speaker": "David",
-            "start": 90,
+            "start": null,
             "end": null,
-            "raw_text": "I will finish it tomorrow.",
-            "clean_text": "I will finish it tomorrow."
+            "raw_text": "Some tables require additional indexes.",
+            "clean_text": "Some tables require additional indexes."
+        },
+        {
+            "speaker": "Laura",
+            "start": null,
+            "end": null,
+            "raw_text": "The user table should store email and password information.",
+            "clean_text": "The user table should store email and password information."
         },
         {
             "speaker": "David",
-            "start": 90,
+            "start": null,
             "end": null,
-            "raw_text": "Then we can review it.",
-            "clean_text": "Then we can review it."
+            "raw_text": "I will optimize the database queries tomorrow.",
+            "clean_text": "I will optimize the database queries tomorrow."
+        },
+
+        {
+            "speaker": "Laura",
+            "start": null,
+            "end": null,
+            "raw_text": "Let's move to deployment planning.",
+            "clean_text": "Let's move to deployment planning."
+        },
+        {
+            "speaker": "David",
+            "start": null,
+            "end": null,
+            "raw_text": "The application will be deployed on the cloud server.",
+            "clean_text": "The application will be deployed on the cloud server."
+        },
+        {
+            "speaker": "Laura",
+            "start": null,
+            "end": null,
+            "raw_text": "We need to configure the production environment.",
+            "clean_text": "We need to configure the production environment."
+        },
+        {
+            "speaker": "David",
+            "start": null,
+            "end": null,
+            "raw_text": "The server requires the correct environment variables.",
+            "clean_text": "The server requires the correct environment variables."
+        },
+        {
+            "speaker": "Laura",
+            "start": null,
+            "end": null,
+            "raw_text": "We should test the deployment before releasing the application.",
+            "clean_text": "We should test the deployment before releasing the application."
+        },
+        {
+            "speaker": "David",
+            "start": null,
+            "end": null,
+            "raw_text": "The deployment should be completed next week.",
+            "clean_text": "The deployment should be completed next week."
         }
     ]
 }

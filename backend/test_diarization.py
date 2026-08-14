@@ -7,7 +7,7 @@ from pyannote.audio import Pipeline
 # -----------------------------------
 
 # AUDIO_FILE = r"..\data\ami\amicorpus\ES2002a\audio\ES2002a.Mix-Headset.wav"
-AUDIO_FILE = r"..\data\ami\ES2002a_test_60s.wav"
+AUDIO_FILE = "../data/ami/amicorpus/ES2002a/audio/ES2002a.Mix-Headset.wav"
 
 HF_TOKEN = os.getenv("HF_TOKEN")
 

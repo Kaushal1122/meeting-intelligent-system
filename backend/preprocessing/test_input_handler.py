@@ -2,7 +2,7 @@ from input_handler import validate_input
 
 
 test_files = [
-    r"..\data\ami\ES2002a_test_60s.wav",
+    r"..\data\ami\amicorpus\ES2002a\audio\ES2002a.Mix-Headset.wav",
     r"..\data\raw\test_transcript.txt"
 ]
 

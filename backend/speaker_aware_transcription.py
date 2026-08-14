@@ -1,226 +1,333 @@
 import os
-import torch
 import json
 from pathlib import Path
+
 import whisperx
 from whisperx.diarize import DiarizationPipeline
+
 from preprocessing.text_cleaner import clean_text
 from preprocessing.speaker_normalizer import normalize_speaker_label
 
 
-# -----------------------------------------
-# Configuration
-# -----------------------------------------
-
-AUDIO_FILE = r"..\data\ami\amicorpus\ES2002a\audio\ES2002a.Mix-Headset.wav"
+# ============================================================
+# CONFIGURATION
+# ============================================================
 
 DEVICE = "cpu"
 COMPUTE_TYPE = "int8"
 MODEL_NAME = "small"
+LANGUAGE = "en"
 
-HF_TOKEN = os.getenv("HF_TOKEN")
 
-if not HF_TOKEN:
-    raise RuntimeError(
-        "HF_TOKEN is not set."
+# ============================================================
+# MAIN FUNCTION
+# ============================================================
+
+def transcribe_audio(
+    audio_file,
+    output_file=None,
+    min_speakers=None,
+    max_speakers=None
+):
+
+    # --------------------------------------------------------
+    # Check Hugging Face token
+    # --------------------------------------------------------
+
+    hf_token = os.getenv("HF_TOKEN")
+
+    if not hf_token:
+        raise RuntimeError(
+            "HF_TOKEN is not set."
+        )
+
+    audio_file = Path(audio_file)
+
+    if not audio_file.exists():
+        raise FileNotFoundError(
+            f"Audio file not found: {audio_file}"
+        )
+
+
+    # --------------------------------------------------------
+    # 1. Load audio
+    # --------------------------------------------------------
+
+    print("\nLoading audio...")
+
+    audio = whisperx.load_audio(
+        str(audio_file)
     )
 
-
-# -----------------------------------------
-# 1. Load audio
-# -----------------------------------------
-
-print("Loading audio...")
-
-audio = whisperx.load_audio(AUDIO_FILE)
-
-print("Audio loaded.")
+    print("Audio loaded.")
 
 
-# -----------------------------------------
-# 2. Load WhisperX ASR
-# -----------------------------------------
+    # --------------------------------------------------------
+    # 2. Load WhisperX ASR
+    # --------------------------------------------------------
 
-print("Loading WhisperX ASR model...")
+    print("\nLoading WhisperX ASR model...")
 
-model = whisperx.load_model(
-    MODEL_NAME,
-    DEVICE,
-    compute_type=COMPUTE_TYPE,
-    language="en"
-)
-
-print("ASR model loaded.")
-
-
-# -----------------------------------------
-# 3. Transcription
-# -----------------------------------------
-
-print("Transcribing...")
-
-result = model.transcribe(
-    audio,
-    batch_size=4
-)
-
-print("Transcription completed.")
-
-
-# -----------------------------------------
-# 4. Word-level alignment
-# -----------------------------------------
-
-print("Loading alignment model...")
-
-align_model, align_metadata = whisperx.load_align_model(
-    language_code=result["language"],
-    device=DEVICE
-)
-
-print("Aligning words...")
-
-result = whisperx.align(
-    result["segments"],
-    align_model,
-    align_metadata,
-    audio,
-    DEVICE,
-    return_char_alignments=False
-)
-
-print("Alignment completed.")
-
-
-# -----------------------------------------
-# 5. Speaker diarization
-# -----------------------------------------
-
-print("Loading speaker diarization model...")
-
-diarize_model = DiarizationPipeline(
-    token=HF_TOKEN,
-    device=DEVICE
-)
-
-print("Running speaker diarization...")
-
-diarize_segments = diarize_model(
-    audio,
-    min_speakers=4,
-    max_speakers=4
-)
-
-print("Speaker diarization completed.")
-
-
-# -----------------------------------------
-# 6. Assign speakers to transcript
-# -----------------------------------------
-
-print("Assigning speakers to transcript...")
-
-result = whisperx.assign_word_speakers(
-    diarize_segments,
-    result
-)
-
-print("Speaker assignment completed.")
-
-
-# -----------------------------------------
-# 7. Create structured transcript
-# -----------------------------------------
-
-import json
-from pathlib import Path
-
-transcript_segments = []
-
-for segment in result["segments"]:
-
-    start = segment.get("start")
-    end = segment.get("end")
-
-    speaker = normalize_speaker_label(
-        segment.get("speaker", "UNKNOWN")
+    model = whisperx.load_model(
+        MODEL_NAME,
+        DEVICE,
+        compute_type=COMPUTE_TYPE,
+        language=LANGUAGE
     )
 
-    text = segment.get(
-        "text",
-        ""
-    ).strip()
-
-    # Ignore empty segments
-    if not text:
-        continue
-
-    raw_text = segment.get("text", "").strip()
-
-    cleaned_text = clean_text(raw_text)
-
-    if not cleaned_text:
-        continue
-
-    transcript_segments.append({
-        "speaker": speaker,
-        "start": round(start, 2) if start is not None else None,
-        "end": round(end, 2) if end is not None else None,
-        "raw_text": raw_text,
-        "clean_text": cleaned_text
-    })
+    print("ASR model loaded.")
 
 
-# -----------------------------------------
-# 8. Create complete output object
-# -----------------------------------------
+    # --------------------------------------------------------
+    # 3. Transcription
+    # --------------------------------------------------------
 
-output = {
-    "meeting_id": "ES2002a",
-    "language": result.get("language", "en"),
-    "source": "audio",
-    "segments": transcript_segments
-}
+    print("\nTranscribing audio...")
 
-
-# -----------------------------------------
-# 9. Save JSON
-# -----------------------------------------
-
-output_dir = Path("../data/processed")
-output_dir.mkdir(parents=True, exist_ok=True)
-
-output_file = output_dir / "ES2002a_speaker_transcript.json"
-
-with open(output_file, "w", encoding="utf-8") as f:
-    json.dump(
-        output,
-        f,
-        indent=4,
-        ensure_ascii=False
+    result = model.transcribe(
+        audio,
+        batch_size=4
     )
 
+    print("Transcription completed.")
 
-# -----------------------------------------
-# 10. Display result
-# -----------------------------------------
 
-print("\n")
-print("=" * 60)
-print("SPEAKER-AWARE TRANSCRIPT")
-print("=" * 60)
+    # --------------------------------------------------------
+    # 4. Word-level alignment
+    # --------------------------------------------------------
 
-for segment in transcript_segments:
+    print("\nLoading alignment model...")
 
+    align_model, align_metadata = whisperx.load_align_model(
+        language_code=result["language"],
+        device=DEVICE
+    )
+
+    print("Aligning words...")
+
+    result = whisperx.align(
+        result["segments"],
+        align_model,
+        align_metadata,
+        audio,
+        DEVICE,
+        return_char_alignments=False
+    )
+
+    print("Alignment completed.")
+
+
+    # --------------------------------------------------------
+    # 5. Speaker diarization
+    # --------------------------------------------------------
+
+    print("\nLoading speaker diarization model...")
+
+    diarize_model = DiarizationPipeline(
+        token=hf_token,
+        device=DEVICE
+    )
+
+    print("Running speaker diarization...")
+
+    diarization_kwargs = {}
+
+    if min_speakers is not None:
+        diarization_kwargs["min_speakers"] = min_speakers
+
+    if max_speakers is not None:
+        diarization_kwargs["max_speakers"] = max_speakers
+
+    diarize_segments = diarize_model(
+        audio,
+        **diarization_kwargs
+    )
+
+    print("Speaker diarization completed.")
+
+
+    # --------------------------------------------------------
+    # 6. Assign speakers to transcript
+    # --------------------------------------------------------
+
+    print("\nAssigning speakers...")
+
+    result = whisperx.assign_word_speakers(
+        diarize_segments,
+        result
+    )
+
+    print("Speaker assignment completed.")
+
+
+    # --------------------------------------------------------
+    # 7. Create structured transcript
+    # --------------------------------------------------------
+
+    transcript_segments = []
+
+    for segment in result["segments"]:
+
+        start = segment.get("start")
+        end = segment.get("end")
+
+        speaker = normalize_speaker_label(
+            segment.get(
+                "speaker",
+                "UNKNOWN"
+            )
+        )
+
+        raw_text = segment.get(
+            "text",
+            ""
+        ).strip()
+
+        if not raw_text:
+            continue
+
+        cleaned_text = clean_text(
+            raw_text
+        )
+
+        if not cleaned_text:
+            continue
+
+        transcript_segments.append(
+            {
+                "speaker": speaker,
+                "start": (
+                    round(start, 2)
+                    if start is not None
+                    else None
+                ),
+                "end": (
+                    round(end, 2)
+                    if end is not None
+                    else None
+                ),
+                "raw_text": raw_text,
+                "clean_text": cleaned_text
+            }
+        )
+
+
+    # --------------------------------------------------------
+    # 8. Create output object
+    # --------------------------------------------------------
+
+    output = {
+        "meeting_id": audio_file.stem,
+        "language": result.get(
+            "language",
+            LANGUAGE
+        ),
+        "source": "audio",
+        "audio_file": str(audio_file),
+        "segments": transcript_segments
+    }
+
+
+    # --------------------------------------------------------
+    # 9. Save JSON
+    # --------------------------------------------------------
+
+    if output_file is None:
+
+        output_dir = Path(
+            "../data/processed"
+        )
+
+        output_dir.mkdir(
+            parents=True,
+            exist_ok=True
+        )
+
+        output_file = (
+            output_dir /
+            f"{audio_file.stem}_speaker_transcript.json"
+        )
+
+    else:
+
+        output_file = Path(
+            output_file
+        )
+
+        output_file.parent.mkdir(
+            parents=True,
+            exist_ok=True
+        )
+
+
+    with open(
+        output_file,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        json.dump(
+            output,
+            f,
+            indent=4,
+            ensure_ascii=False
+        )
+
+
+    # --------------------------------------------------------
+    # 10. Display transcript
+    # --------------------------------------------------------
+
+    print("\n")
+    print("=" * 70)
+    print("SPEAKER-AWARE TRANSCRIPT")
+    print("=" * 70)
+
+    for segment in transcript_segments:
+
+        print(
+            f"[{segment['start']:.2f} --> "
+            f"{segment['end']:.2f}] "
+            f"{segment['speaker']}: "
+            f"{segment['clean_text']}"
+        )
+
+
+    print("\n")
+    print("=" * 70)
     print(
-        f"[{segment['start']:.2f} --> "
-        f"{segment['end']:.2f}] "
-        f"{segment['speaker']}: "
-        f"{segment['clean_text']}"
+        f"JSON saved to: {output_file}"
     )
+    print("=" * 70)
 
 
-print("\n")
-print("=" * 60)
-print(f"JSON saved to: {output_file}")
-print("=" * 60)
+    return output
+
+
+# ============================================================
+# STANDALONE TEST
+# ============================================================
+
+if __name__ == "__main__":
+
+    import sys
+
+    if len(sys.argv) < 2:
+
+        print("\nUsage:")
+        print(
+            "python speaker_aware_transcription.py <audio_file>"
+        )
+
+        print("\nExample:")
+        print(
+            r"python speaker_aware_transcription.py meeting.wav"
+        )
+
+        sys.exit(1)
+
+    audio_path = sys.argv[1]
+
+    transcribe_audio(
+        audio_path
+    )

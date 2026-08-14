@@ -1,0 +1,2899 @@
+{
+    "meeting_id": "ES2002b.Mix-Headset",
+    "language": "en",
+    "source": "audio",
+    "audio_file": "C:\\Users\\Sabby\\Desktop\\meeting-intelligent-system\\data\\ami\\amicorpus\\ES2002b\\audio\\ES2002b.Mix-Headset.rm",
+    "segments": [
+        {
+            "speaker": "SPEAKER_04",
+            "start": 14.59,
+            "end": 15.39,
+            "raw_text": "Is that all right now?",
+            "clean_text": "Is that all right now?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 17.48,
+            "end": 18.2,
+            "raw_text": "OK. That's cool.",
+            "clean_text": "OK. That's cool."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 18.24,
+            "end": 19.04,
+            "raw_text": "Someone turned these on.",
+            "clean_text": "Someone turned these on."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 19.74,
+            "end": 20.06,
+            "raw_text": "Sorry?",
+            "clean_text": "Sorry?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 20.34,
+            "end": 21.46,
+            "raw_text": "Could someone turn these on for us?",
+            "clean_text": "Could someone turn these on for us?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 21.64,
+            "end": 21.88,
+            "raw_text": "Great.",
+            "clean_text": "Great."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 23.32,
+            "end": 23.94,
+            "raw_text": "OK, everybody.",
+            "clean_text": "OK, everybody."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 24.08,
+            "end": 25.3,
+            "raw_text": "All set to start the meeting.",
+            "clean_text": "All set to start the meeting."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 25.32,
+            "end": 32.23,
+            "raw_text": "OK, we've got half an hour for this one to discuss the functional design.",
+            "clean_text": "OK, we've got half an hour for this one to discuss the functional design."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 32.24,
+            "end": 32.3,
+            "raw_text": "OK.",
+            "clean_text": "OK."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 33.39,
+            "end": 33.61,
+            "raw_text": "Thanks.",
+            "clean_text": "Thanks."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 34.7,
+            "end": 35.38,
+            "raw_text": "All ready to go?",
+            "clean_text": "All ready to go?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 35.4,
+            "end": 37.54,
+            "raw_text": "Okay.",
+            "clean_text": "Okay."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 37.94,
+            "end": 44.64,
+            "raw_text": "So hopefully if I've been working away and I've put the minutes of the last meeting in the project folder.",
+            "clean_text": "So hopefully if I've been working away and I've put the minutes of the last meeting in the project folder."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 45.88,
+            "end": 49.66,
+            "raw_text": "So I guess just to recap on what we did last time.",
+            "clean_text": "So I guess just to recap on what we did last time."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 49.68,
+            "end": 63.89,
+            "raw_text": "I got to know each other a little bit and got familiar with all the equipment and started to discuss a bit about the project, cost wise, how much money we had",
+            "clean_text": "I got to know each other a little bit and got familiar with all the equipment and started to discuss a bit about the project, cost wise, how much money we had"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 101.17,
+            "end": 114.75,
+            "raw_text": "And just want to tell you that we have three new requirements, which is the first one is that the companies decided that teletext is outdated because of how popular the internet is.",
+            "clean_text": "And just want to tell you that we have three new requirements, which is the first one is that the companies decided that teletext is outdated because of how popular the internet is."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 114.83,
+            "end": 116.53,
+            "raw_text": "Nobody uses teletext very much anymore.",
+            "clean_text": "Nobody uses teletext very much anymore."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 117.08,
+            "end": 119.98,
+            "raw_text": "So we don't really need to consider that in the functionality of the.",
+            "clean_text": "So we don't really need to consider that in the functionality of the."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 120.58,
+            "end": 121.58,
+            "raw_text": "of the remote control.",
+            "clean_text": "of the remote control."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 122.12,
+            "end": 130.59,
+            "raw_text": "And they've also suggested that we only use the remote control to control the television, not the VCR or DVD or anything else.",
+            "clean_text": "And they've also suggested that we only use the remote control to control the television, not the VCR or DVD or anything else."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 130.83,
+            "end": 140.88,
+            "raw_text": "I think the worry is that if the project becomes too complex, then it'll affect how long it takes us to get it into production, the time to market.",
+            "clean_text": "I think the worry is that if the project becomes too complex, then it'll affect how long it takes us to get it into production, the time to market."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 141.8,
+            "end": 144.94,
+            "raw_text": "So we're just going to keep it simple and it'll just control the TV.",
+            "clean_text": "So we're just going to keep it simple and it'll just control the TV."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 145.52,
+            "end": 150.46,
+            "raw_text": "And the other thing was that the company want the corporate color and slogan to be implemented in the new design.",
+            "clean_text": "And the other thing was that the company want the corporate color and slogan to be implemented in the new design."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 152.52,
+            "end": 154.56,
+            "raw_text": "I'm not entirely sure what the corporate color is.",
+            "clean_text": "I'm not entirely sure what the corporate color is."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 155.04,
+            "end": 157.71,
+            "raw_text": "It might be yellow because there seems to be a lot of yellow everywhere.",
+            "clean_text": "It might be yellow because there seems to be a lot of yellow everywhere."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 158.01,
+            "end": 162.95,
+            "raw_text": "And the slogan, like the actual written slogan, or just to embody the idea of the slogan?",
+            "clean_text": "And the slogan, like the actual written slogan, or just to embody the idea of the slogan?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 163.23,
+            "end": 164.01,
+            "raw_text": "Well, that's the thing.",
+            "clean_text": "Well, that's the thing."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 164.23,
+            "end": 164.91,
+            "raw_text": "I'm not sure.",
+            "clean_text": "I'm not sure."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 167.81,
+            "end": 171.09,
+            "raw_text": "Because on the company website, what does it say?",
+            "clean_text": "Because on the company website, what does it say?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 172.66,
+            "end": 177.78,
+            "raw_text": "Yeah, I mean, is that something they want actually written on?",
+            "clean_text": "Yeah, I mean, is that something they want actually written on?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 177.81,
+            "end": 178.71,
+            "raw_text": "Because it's quite long.",
+            "clean_text": "Because it's quite long."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 180.67,
+            "end": 182.25,
+            "raw_text": "Or yeah, just the idea that I'm not sure.",
+            "clean_text": "Or yeah, just the idea that I'm not sure."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 182.29,
+            "end": 183.93,
+            "raw_text": "Is that something we can discuss as well?",
+            "clean_text": "Is that something we can discuss as well?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 184.35,
+            "end": 185.23,
+            "raw_text": "So these are the three things.",
+            "clean_text": "So these are the three things."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 185.27,
+            "end": 187.63,
+            "raw_text": "Just not to worry about teletext.",
+            "clean_text": "Just not to worry about teletext."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 188.03,
+            "end": 189.53,
+            "raw_text": "Only control the TV.",
+            "clean_text": "Only control the TV."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 190.23,
+            "end": 195.31,
+            "raw_text": "And incorporate the color and slogan of the company.",
+            "clean_text": "And incorporate the color and slogan of the company."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 198.91,
+            "end": 202.4,
+            "raw_text": "Is everybody OK with any of that, or do you want me to recap?",
+            "clean_text": "Is everybody OK with any of that, or do you want me to recap?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 202.54,
+            "end": 202.94,
+            "raw_text": "That's all.",
+            "clean_text": "That's all."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 204.78,
+            "end": 206.8,
+            "raw_text": "Time for presentations, then.",
+            "clean_text": "Time for presentations, then."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 206.84,
+            "end": 207.94,
+            "raw_text": "He would like to go first.",
+            "clean_text": "He would like to go first."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 210.2,
+            "end": 211.22,
+            "raw_text": "Can I go first?",
+            "clean_text": "Can I go first?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 211.26,
+            "end": 211.8,
+            "raw_text": "OK, cool.",
+            "clean_text": "OK, cool."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 217.26,
+            "end": 219.63,
+            "raw_text": "Can I steal this from the back of your laptop?",
+            "clean_text": "Can I steal this from the back of your laptop?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 219.93,
+            "end": 220.45,
+            "raw_text": "Oh, yeah, of course.",
+            "clean_text": "Oh, yeah, of course."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 220.47,
+            "end": 221.71,
+            "raw_text": "Go ahead.",
+            "clean_text": "Go ahead."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 258.88,
+            "end": 260.08,
+            "raw_text": "So you take a look up on the design.",
+            "clean_text": "So you take a look up on the design."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 265.64,
+            "end": 270.24,
+            "raw_text": "OK. To do the design, I have a look online.",
+            "clean_text": "OK. To do the design, I have a look online."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 270.26,
+            "end": 275.4,
+            "raw_text": "I've had a look at the homepage, which has given us some inspiration from previous products.",
+            "clean_text": "I've had a look at the homepage, which has given us some inspiration from previous products."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 275.48,
+            "end": 277.76,
+            "raw_text": "I've had a look at the previous products to see what they offer.",
+            "clean_text": "I've had a look at the previous products to see what they offer."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 278.56,
+            "end": 284.12,
+            "raw_text": "And I would like to ask you guys for your ideas about the design at the end of the meeting.",
+            "clean_text": "And I would like to ask you guys for your ideas about the design at the end of the meeting."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 284.64,
+            "end": 286.58,
+            "raw_text": "Unfortunately, we're not allowed to talk outside the meeting room.",
+            "clean_text": "Unfortunately, we're not allowed to talk outside the meeting room."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 287.76,
+            "end": 287.98,
+            "raw_text": "OK.",
+            "clean_text": "OK."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 290.44,
+            "end": 295.38,
+            "raw_text": "Having a look at the existing products, I found out that it tends to come into the extremes.",
+            "clean_text": "Having a look at the existing products, I found out that it tends to come into the extremes."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 295.76,
+            "end": 299.81,
+            "raw_text": "There's either a very complicated one that's got lots of buttons, lots of colors, very confusing.",
+            "clean_text": "There's either a very complicated one that's got lots of buttons, lots of colors, very confusing."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 299.93,
+            "end": 302.13,
+            "raw_text": "You don't know what you're doing.",
+            "clean_text": "You don't know what you're doing."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 302.45,
+            "end": 304.55,
+            "raw_text": "In that case, the labeling tends to be very bad.",
+            "clean_text": "In that case, the labeling tends to be very bad."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 304.87,
+            "end": 306.53,
+            "raw_text": "There's an example I'll show you at the end.",
+            "clean_text": "There's an example I'll show you at the end."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 315.65,
+            "end": 318.1,
+            "raw_text": "You see here, there's a button there and there.",
+            "clean_text": "You see here, there's a button there and there."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 318.12,
+            "end": 319.48,
+            "raw_text": "This one's prog.",
+            "clean_text": "This one's prog."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 319.94,
+            "end": 321.61,
+            "raw_text": "Sorry, that one's prog, and that one's prog.",
+            "clean_text": "Sorry, that one's prog, and that one's prog."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 322.21,
+            "end": 323.33,
+            "raw_text": "And it doesn't really tell you what it does.",
+            "clean_text": "And it doesn't really tell you what it does."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 334.53,
+            "end": 339.12,
+            "raw_text": "I'm not sure if you had a look at the other control on that, for example.",
+            "clean_text": "I'm not sure if you had a look at the other control on that, for example."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 339.5,
+            "end": 340.22,
+            "raw_text": "It's a very simple one.",
+            "clean_text": "It's a very simple one."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 340.24,
+            "end": 341.5,
+            "raw_text": "It's got only the basic functions.",
+            "clean_text": "It's got only the basic functions."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 342.0,
+            "end": 346.96,
+            "raw_text": "But it's the same size as the hard to use one.",
+            "clean_text": "But it's the same size as the hard to use one."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 348.16,
+            "end": 349.08,
+            "raw_text": "And could be clunky.",
+            "clean_text": "And could be clunky."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 349.62,
+            "end": 354.08,
+            "raw_text": "So very big and not very much used for actual buttons.",
+            "clean_text": "So very big and not very much used for actual buttons."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 355.06,
+            "end": 357.25,
+            "raw_text": "And it's very hard to access the advanced functions.",
+            "clean_text": "And it's very hard to access the advanced functions."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 357.37,
+            "end": 359.33,
+            "raw_text": "There's nothing, for instance, for a slow motion button.",
+            "clean_text": "There's nothing, for instance, for a slow motion button."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 363.28,
+            "end": 365.52,
+            "raw_text": "My own preferences, I prefer the clunky one.",
+            "clean_text": "My own preferences, I prefer the clunky one."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 366.02,
+            "end": 374.23,
+            "raw_text": "It's very easy to use, but unfortunately it does lack the advanced functions, which I quite like having on the controls.",
+            "clean_text": "It's very easy to use, but unfortunately it does lack the advanced functions, which I quite like having on the controls."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 374.65,
+            "end": 378.93,
+            "raw_text": "I believe that the advanced functions should maybe be hidden in a drawer or something like that, it could be pulled out from the bottom of it.",
+            "clean_text": "I believe that the advanced functions should maybe be hidden in a drawer or something like that, it could be pulled out from the bottom of it."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 381.57,
+            "end": 386.16,
+            "raw_text": "Now that I've tested your preferences, I'm not sure how long we'll go.",
+            "clean_text": "Now that I've tested your preferences, I'm not sure how long we'll go."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 386.71,
+            "end": 394.55,
+            "raw_text": "Well, we can chat away for five minutes or so, I think, at most, just a couple of minutes, anyway.",
+            "clean_text": "Well, we can chat away for five minutes or so, I think, at most, just a couple of minutes, anyway."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 394.63,
+            "end": 402.62,
+            "raw_text": "Yeah, a lot of what I've read and prepared for this meeting fits in really closely with what Craig's just gone over.",
+            "clean_text": "Yeah, a lot of what I've read and prepared for this meeting fits in really closely with what Craig's just gone over."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 403.07,
+            "end": 410.66,
+            "raw_text": "So in part, I could give you some of my personal preferences, but I could also add some to this, which is just about sort of market research.",
+            "clean_text": "So in part, I could give you some of my personal preferences, but I could also add some to this, which is just about sort of market research."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 411.54,
+            "end": 412.96,
+            "raw_text": "But anyway.",
+            "clean_text": "But anyway."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 413.0,
+            "end": 415.22,
+            "raw_text": "So we'll stick to kind of your area for now.",
+            "clean_text": "So we'll stick to kind of your area for now."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 415.36,
+            "end": 418.94,
+            "raw_text": "I think it's supposed to be the same size, but it's got much fewer buttons.",
+            "clean_text": "I think it's supposed to be the same size, but it's got much fewer buttons."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 434.13,
+            "end": 436.09,
+            "raw_text": "Well, I think it's a valid point.",
+            "clean_text": "Well, I think it's a valid point."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 436.21,
+            "end": 443.44,
+            "raw_text": "The one on the left looks quite complicated, and that PROG thing is incredibly confusing.",
+            "clean_text": "The one on the left looks quite complicated, and that PROG thing is incredibly confusing."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 444.9,
+            "end": 448.88,
+            "raw_text": "So I see why you might prefer the simpler design.",
+            "clean_text": "So I see why you might prefer the simpler design."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 449.18,
+            "end": 451.89,
+            "raw_text": "But yeah, you don't want to lose out on what it does.",
+            "clean_text": "But yeah, you don't want to lose out on what it does."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 451.95,
+            "end": 455.79,
+            "raw_text": "So maybe you get a lot of remote controls where you kind of flip the thing open.",
+            "clean_text": "So maybe you get a lot of remote controls where you kind of flip the thing open."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 455.81,
+            "end": 456.79,
+            "raw_text": "I think that's a good idea.",
+            "clean_text": "I think that's a good idea."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 456.81,
+            "end": 458.43,
+            "raw_text": "I think it's a good idea.",
+            "clean_text": "I think it's a good idea."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 461.39,
+            "end": 463.73,
+            "raw_text": "Do we have any functions we'd want on it?",
+            "clean_text": "Do we have any functions we'd want on it?"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 463.89,
+            "end": 468.28,
+            "raw_text": "So far I've got on and off, switch the channel up and down and put the volume up and down.",
+            "clean_text": "So far I've got on and off, switch the channel up and down and put the volume up and down."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 469.04,
+            "end": 470.8,
+            "raw_text": "They're just the very basic security for TV.",
+            "clean_text": "They're just the very basic security for TV."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 471.42,
+            "end": 474.38,
+            "raw_text": "And then actual numbers for channels as well, yeah.",
+            "clean_text": "And then actual numbers for channels as well, yeah."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 476.18,
+            "end": 484.63,
+            "raw_text": "I would say that's required.",
+            "clean_text": "I would say that's required."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 484.69,
+            "end": 490.13,
+            "raw_text": "I mean, there's no way anybody's going to buy a remote control Easter, so she can't actually individually select channels.",
+            "clean_text": "I mean, there's no way anybody's going to buy a remote control Easter, so she can't actually individually select channels."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 490.15,
+            "end": 491.76,
+            "raw_text": "I mean, would anybody disagree with that?",
+            "clean_text": "I mean, would anybody disagree with that?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 494.3,
+            "end": 494.78,
+            "raw_text": "What else?",
+            "clean_text": "What else?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 497.08,
+            "end": 500.1,
+            "raw_text": "So don't need to worry about tele-text, don't need to worry about VCR.",
+            "clean_text": "So don't need to worry about tele-text, don't need to worry about VCR."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 503.24,
+            "end": 505.5,
+            "raw_text": "Any kind of display controls at all?",
+            "clean_text": "Any kind of display controls at all?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 505.52,
+            "end": 508.13,
+            "raw_text": "Do you think we need to worry about brightness and contrast?",
+            "clean_text": "Do you think we need to worry about brightness and contrast?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 508.17,
+            "end": 510.87,
+            "raw_text": "Well, I think essentially what we're doing right now is we're categorizing.",
+            "clean_text": "Well, I think essentially what we're doing right now is we're categorizing."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 510.89,
+            "end": 517.53,
+            "raw_text": "We're saying, well, we want this to be a product that offers all the more tricky features, but we want them to be in another",
+            "clean_text": "We're saying, well, we want this to be a product that offers all the more tricky features, but we want them to be in another"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 518.31,
+            "end": 519.81,
+            "raw_text": "Area is that right?",
+            "clean_text": "Area is that right?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 519.83,
+            "end": 524.28,
+            "raw_text": "We're kind of like sorting or we actually eliminating things.",
+            "clean_text": "We're kind of like sorting or we actually eliminating things."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 524.3,
+            "end": 537.05,
+            "raw_text": "We just don't want product I think are you are you maybe kind of thinking what we absolutely have to have and what would be nice to start with I'm sure a bit both We find out exactly what we have to have and after that we can add things if they're possible",
+            "clean_text": "We just don't want product I think are you are you maybe kind of thinking what we absolutely have to have and what would be nice to start with I'm sure a bit both We find out exactly what we have to have and after that we can add things if they're possible"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 537.57,
+            "end": 553.02,
+            "raw_text": "Okay right well do you want to maybe just at this point decide on what we absolutely must have as a function of this and so far just to recap you've got volume and channel control and volume and channel and skip to certain channels with the numbers.",
+            "clean_text": "Okay right well do you want to maybe just at this point decide on what we absolutely must have as a function of this and so far just to recap you've got volume and channel control and volume and channel and skip to certain channels with the numbers."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 553.38,
+            "end": 554.8,
+            "raw_text": "Right okay um",
+            "clean_text": "Right okay um"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 560.04,
+            "end": 577.59,
+            "raw_text": "Well, one way I would look at this would be that we approach the different controls in terms of like control types so that for the user it's very clear what they want to do, where they go, and also think maybe a little bit about what we just want to be easily accessible.",
+            "clean_text": "Well, one way I would look at this would be that we approach the different controls in terms of like control types so that for the user it's very clear what they want to do, where they go, and also think maybe a little bit about what we just want to be easily accessible."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 578.07,
+            "end": 582.04,
+            "raw_text": "For example, if we had audio controls, those could be something people set up very rarely.",
+            "clean_text": "For example, if we had audio controls, those could be something people set up very rarely."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 582.42,
+            "end": 587.14,
+            "raw_text": "Maybe they're in a little area, but covered up.",
+            "clean_text": "Maybe they're in a little area, but covered up."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 588.4,
+            "end": 596.7,
+            "raw_text": "Things like channel and volume are used all the time, so we just have them right out on top.",
+            "clean_text": "Things like channel and volume are used all the time, so we just have them right out on top."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 597.2,
+            "end": 599.0,
+            "raw_text": "Just very self-explanatory.",
+            "clean_text": "Just very self-explanatory."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 601.88,
+            "end": 616.31,
+            "raw_text": "So maybe we need to think about having three or more groupings of controls, you know, like one which are just the habitual ones that should be right within your natural grip and others that are also available and then others that are concealed.",
+            "clean_text": "So maybe we need to think about having three or more groupings of controls, you know, like one which are just the habitual ones that should be right within your natural grip and others that are also available and then others that are concealed."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 616.57,
+            "end": 620.53,
+            "raw_text": "Okay, we're just to wrap up quickly on this little section.",
+            "clean_text": "Okay, we're just to wrap up quickly on this little section."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 621.05,
+            "end": 625.31,
+            "raw_text": "Do you think maybe that's the only kind of",
+            "clean_text": "Do you think maybe that's the only kind of"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 627.35,
+            "end": 638.2,
+            "raw_text": "essential requirements and then maybe just things that would be nice if it could do would be things like audio set up and display set up and things like that maybe like a mute button that sort of thing.",
+            "clean_text": "essential requirements and then maybe just things that would be nice if it could do would be things like audio set up and display set up and things like that maybe like a mute button that sort of thing."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 638.34,
+            "end": 640.7,
+            "raw_text": "Any objections to that at all?",
+            "clean_text": "Any objections to that at all?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 643.68,
+            "end": 644.06,
+            "raw_text": "Okay.",
+            "clean_text": "Okay."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 645.12,
+            "end": 646.34,
+            "raw_text": "Right.",
+            "clean_text": "Right."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 646.52,
+            "end": 649.46,
+            "raw_text": "Okay, if we can move on to the next presentation then please.",
+            "clean_text": "Okay, if we can move on to the next presentation then please."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 650.48,
+            "end": 651.36,
+            "raw_text": "Sure.",
+            "clean_text": "Sure."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 653.2,
+            "end": 654.18,
+            "raw_text": "Can this reach?",
+            "clean_text": "Can this reach?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 654.34,
+            "end": 655.72,
+            "raw_text": "Can this plug come across?",
+            "clean_text": "Can this plug come across?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 655.8,
+            "end": 657.16,
+            "raw_text": "Probably not, actually.",
+            "clean_text": "Probably not, actually."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 658.3,
+            "end": 660.44,
+            "raw_text": "So why don't I just pick up and...",
+            "clean_text": "So why don't I just pick up and."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 680.91,
+            "end": 682.47,
+            "raw_text": "Can you go behind me?",
+            "clean_text": "Can you go behind me?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 684.07,
+            "end": 686.82,
+            "raw_text": "Is that complicated?",
+            "clean_text": "Is that complicated?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 686.98,
+            "end": 689.12,
+            "raw_text": "Who knows if everything was wireless, isn't it?",
+            "clean_text": "Who knows if everything was wireless, isn't it?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 697.24,
+            "end": 707.03,
+            "raw_text": "So I can say already, I don't know whether this is for good or for bad, but there'll be a lot of redundancy in the issues and the...",
+            "clean_text": "So I can say already, I don't know whether this is for good or for bad, but there'll be a lot of redundancy in the issues and the."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 708.13,
+            "end": 709.75,
+            "raw_text": "Overlap between what you said.",
+            "clean_text": "Overlap between what you said."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 710.27,
+            "end": 716.64,
+            "raw_text": "Not necessarily a bad thing, but what I've already started doing is I created a slide in my presentation here.",
+            "clean_text": "Not necessarily a bad thing, but what I've already started doing is I created a slide in my presentation here."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 719.7,
+            "end": 727.51,
+            "raw_text": "So that we kind of think what's the cumulative effect of what we've taken from your ideas and mine because certainly I have a hard time separating.",
+            "clean_text": "So that we kind of think what's the cumulative effect of what we've taken from your ideas and mine because certainly I have a hard time separating."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 728.55,
+            "end": 729.55,
+            "raw_text": "Separating things completely.",
+            "clean_text": "Separating things completely."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 730.13,
+            "end": 736.95,
+            "raw_text": "Obviously what you just told me impacts a lot on what like market research that I've been.",
+            "clean_text": "Obviously what you just told me impacts a lot on what like market research that I've been."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 738.25,
+            "end": 739.79,
+            "raw_text": "So how do I get this up?",
+            "clean_text": "So how do I get this up?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 739.83,
+            "end": 740.09,
+            "raw_text": "Okay.",
+            "clean_text": "Okay."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 751.75,
+            "end": 754.45,
+            "raw_text": "OK. OK, I think that's doing it now.",
+            "clean_text": "OK. OK, I think that's doing it now."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 754.47,
+            "end": 756.77,
+            "raw_text": "Again, maybe the Y in the back might be loose.",
+            "clean_text": "Again, maybe the Y in the back might be loose."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 756.81,
+            "end": 765.07,
+            "raw_text": "OK. Oh, oh, here we go.",
+            "clean_text": "OK. Oh, oh, here we go."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 765.11,
+            "end": 765.39,
+            "raw_text": "OK, great.",
+            "clean_text": "OK, great."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 765.41,
+            "end": 766.39,
+            "raw_text": "There you go.",
+            "clean_text": "There you go."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 782.52,
+            "end": 796.71,
+            "raw_text": "OK. Just before I bring this up, what I'll just say is what I've done is try to collect some information so that I can then relate this to you guys so that it now becomes a collective thing and then kind of lead us in the direction of deciding, OK, what are our options?",
+            "clean_text": "OK. Just before I bring this up, what I'll just say is what I've done is try to collect some information so that I can then relate this to you guys so that it now becomes a collective thing and then kind of lead us in the direction of deciding, OK, what are our options?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 796.75,
+            "end": 797.61,
+            "raw_text": "What should we decide?",
+            "clean_text": "What should we decide?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 798.17,
+            "end": 799.39,
+            "raw_text": "And do you know what I mean?",
+            "clean_text": "And do you know what I mean?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 799.45,
+            "end": 803.81,
+            "raw_text": "So OK. OK.",
+            "clean_text": "So OK. OK."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 805.47,
+            "end": 808.14,
+            "raw_text": "Right.",
+            "clean_text": "Right."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 810.82,
+            "end": 811.24,
+            "raw_text": "Can you?",
+            "clean_text": "Can you?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 818.43,
+            "end": 820.35,
+            "raw_text": "So that makes sense.",
+            "clean_text": "So that makes sense."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 820.37,
+            "end": 836.74,
+            "raw_text": "So what I basically got is I just looked into some information and sort of tried to think about how we could review it and what kind of decisions we could take away from it and then maybe by the end of just looking at some of these things we can think about what are our priorities because certainly there's lots of different information to go through.",
+            "clean_text": "So what I basically got is I just looked into some information and sort of tried to think about how we could review it and what kind of decisions we could take away from it and then maybe by the end of just looking at some of these things we can think about what are our priorities because certainly there's lots of different information to go through."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 837.62,
+            "end": 847.87,
+            "raw_text": "I'm thinking here about, primarily about customer needs that we start with the customer and what they want and what are issues with existing products.",
+            "clean_text": "I'm thinking here about, primarily about customer needs that we start with the customer and what they want and what are issues with existing products."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 848.43,
+            "end": 855.86,
+            "raw_text": "I think about trends and also about trying to connect that, as you see with the company vision, which is about fashion and electronics.",
+            "clean_text": "I think about trends and also about trying to connect that, as you see with the company vision, which is about fashion and electronics."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 856.1,
+            "end": 860.16,
+            "raw_text": "And then, as I say, we'd like to prioritize our design features from this.",
+            "clean_text": "And then, as I say, we'd like to prioritize our design features from this."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 863.74,
+            "end": 865.82,
+            "raw_text": "Okay.",
+            "clean_text": "Okay."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 866.9,
+            "end": 868.25,
+            "raw_text": "So this is what I've found here.",
+            "clean_text": "So this is what I've found here."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 868.63,
+            "end": 870.39,
+            "raw_text": "A lot of this is new to me.",
+            "clean_text": "A lot of this is new to me."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 870.53,
+            "end": 872.07,
+            "raw_text": "So we'll just read two together.",
+            "clean_text": "So we'll just read two together."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 874.91,
+            "end": 877.25,
+            "raw_text": "You just dislike the look and feel of current remote controls.",
+            "clean_text": "You just dislike the look and feel of current remote controls."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 877.41,
+            "end": 878.77,
+            "raw_text": "So they find them ugly.",
+            "clean_text": "So they find them ugly."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 878.85,
+            "end": 879.93,
+            "raw_text": "Most people find them ugly.",
+            "clean_text": "Most people find them ugly."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 881.94,
+            "end": 885.54,
+            "raw_text": "The vast majority would spend more money for it to look fancy as well.",
+            "clean_text": "The vast majority would spend more money for it to look fancy as well."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 885.58,
+            "end": 886.16,
+            "raw_text": "We'll see later.",
+            "clean_text": "We'll see later."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 886.18,
+            "end": 892.59,
+            "raw_text": "The vast majority of people would spend more money for slightly more intuitive controls such as voice recognition.",
+            "clean_text": "The vast majority of people would spend more money for slightly more intuitive controls such as voice recognition."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 893.15,
+            "end": 895.1,
+            "raw_text": "Okay, I'm going to look at that in a second.",
+            "clean_text": "Okay, I'm going to look at that in a second."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 896.48,
+            "end": 900.5,
+            "raw_text": "Most people use only a very slim portion of all the controls.",
+            "clean_text": "Most people use only a very slim portion of all the controls."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 900.96,
+            "end": 904.75,
+            "raw_text": "So I guess what we're looking at here is people want this technology.",
+            "clean_text": "So I guess what we're looking at here is people want this technology."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 905.03,
+            "end": 912.07,
+            "raw_text": "They tend to use the most simple controls and overall they find remote controls to be something they don't, doesn't really appeal to them.",
+            "clean_text": "They tend to use the most simple controls and overall they find remote controls to be something they don't, doesn't really appeal to them."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 912.59,
+            "end": 919.92,
+            "raw_text": "So I think what we're doing is we're trying to take like, for me, this is sort of like three different inspirations.",
+            "clean_text": "So I think what we're doing is we're trying to take like, for me, this is sort of like three different inspirations."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 920.02,
+            "end": 923.46,
+            "raw_text": "One is that we want something that's high-tech, but we want it to seem easy.",
+            "clean_text": "One is that we want something that's high-tech, but we want it to seem easy."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 924.18,
+            "end": 930.95,
+            "raw_text": "And in spite of the primitive side of it and the very high-tech side, we want it to just be an appealing piece of equipment in people's hands.",
+            "clean_text": "And in spite of the primitive side of it and the very high-tech side, we want it to just be an appealing piece of equipment in people's hands."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 933.99,
+            "end": 938.34,
+            "raw_text": "Frustrations, they get lost a lot as it came up in our last meeting.",
+            "clean_text": "Frustrations, they get lost a lot as it came up in our last meeting."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 938.7,
+            "end": 941.4,
+            "raw_text": "It takes time to learn how to use them.",
+            "clean_text": "It takes time to learn how to use them."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 941.6,
+            "end": 946.64,
+            "raw_text": "This is why I mentioned when Craig was showing us some ideas that we actually try and group control.",
+            "clean_text": "This is why I mentioned when Craig was showing us some ideas that we actually try and group control."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 946.68,
+            "end": 948.36,
+            "raw_text": "So it doesn't just look like a big panel.",
+            "clean_text": "So it doesn't just look like a big panel."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 948.78,
+            "end": 953.79,
+            "raw_text": "Kind of like when you look at a new computer keyboard or something that it's quite explanatory.",
+            "clean_text": "Kind of like when you look at a new computer keyboard or something that it's quite explanatory."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 953.81,
+            "end": 957.39,
+            "raw_text": "If you want audio, if you want visual, you have those.",
+            "clean_text": "If you want audio, if you want visual, you have those."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 960.25,
+            "end": 962.35,
+            "raw_text": "And I will admit I don't know what RSI stands for.",
+            "clean_text": "And I will admit I don't know what RSI stands for."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 968.43,
+            "end": 970.11,
+            "raw_text": "No, that did not come up at all.",
+            "clean_text": "No, that did not come up at all."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 972.21,
+            "end": 977.15,
+            "raw_text": "So here's another sort of a review here of the main things.",
+            "clean_text": "So here's another sort of a review here of the main things."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 977.17,
+            "end": 982.58,
+            "raw_text": "I also found that most people would, adults at least, would pay more for voice recognition.",
+            "clean_text": "I also found that most people would, adults at least, would pay more for voice recognition."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 982.62,
+            "end": 989.08,
+            "raw_text": "Now apparently we do have access to all the cutting edge technology and remote control, so I don't know if that's possible.",
+            "clean_text": "Now apparently we do have access to all the cutting edge technology and remote control, so I don't know if that's possible."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 989.38,
+            "end": 990.76,
+            "raw_text": "We might consider getting into it.",
+            "clean_text": "We might consider getting into it."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 994.04,
+            "end": 1007.07,
+            "raw_text": "And again here as we sort of move, sort of starting about how we want to sell and market this, I think a recurring theme here is the company wants it to be, wants us to make something that's fashionable and sleek and trendy.",
+            "clean_text": "And again here as we sort of move, sort of starting about how we want to sell and market this, I think a recurring theme here is the company wants it to be, wants us to make something that's fashionable and sleek and trendy."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1007.95,
+            "end": 1012.95,
+            "raw_text": "People additionally aren't liking the appearance of their products.",
+            "clean_text": "People additionally aren't liking the appearance of their products."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1012.97,
+            "end": 1023.32,
+            "raw_text": "So we want to think about as we take all the sort of the techie features, how we can put that into a unit which is, which people like, you know, they like the aesthetics and the ergonomics.",
+            "clean_text": "So we want to think about as we take all the sort of the techie features, how we can put that into a unit which is, which people like, you know, they like the aesthetics and the ergonomics."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1023.56,
+            "end": 1028.06,
+            "raw_text": "So once in a while it looks good and it's easy to use, big priorities.",
+            "clean_text": "So once in a while it looks good and it's easy to use, big priorities."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1028.24,
+            "end": 1041.85,
+            "raw_text": "Yeah, so just looking at what Craig's ideas there sort of tell me that maybe what we want to do is try and separate the different things that we want to include in this.",
+            "clean_text": "Yeah, so just looking at what Craig's ideas there sort of tell me that maybe what we want to do is try and separate the different things that we want to include in this."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1041.87,
+            "end": 1048.26,
+            "raw_text": "So if we do say, well, we want there to be all the technology, well, we try and make that almost be like optional technology.",
+            "clean_text": "So if we do say, well, we want there to be all the technology, well, we try and make that almost be like optional technology."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1050.58,
+            "end": 1060.81,
+            "raw_text": "like I find a lot of TVs these days something really nice about them is if you want to just turn them on and off you can but they have little panels where you click and there's just like tons of features so you go through.",
+            "clean_text": "like I find a lot of TVs these days something really nice about them is if you want to just turn them on and off you can but they have little panels where you click and there's just like tons of features so you go through."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1060.83,
+            "end": 1066.77,
+            "raw_text": "You want to grip all the different kind of types of functions together you know that's a good idea.",
+            "clean_text": "You want to grip all the different kind of types of functions together you know that's a good idea."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1068.29,
+            "end": 1077.67,
+            "raw_text": "But I hope here is that I'm putting out this information so we can then say, OK, well, how do we collectively move on with it?",
+            "clean_text": "But I hope here is that I'm putting out this information so we can then say, OK, well, how do we collectively move on with it?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1078.15,
+            "end": 1092.68,
+            "raw_text": "I haven't brought out one specific marketing idea, although my sense is that what we should try and think about is what are the current trends in materials and shapes and styles, and then use that, but not let that confine us technologically.",
+            "clean_text": "I haven't brought out one specific marketing idea, although my sense is that what we should try and think about is what are the current trends in materials and shapes and styles, and then use that, but not let that confine us technologically."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 1093.34,
+            "end": 1095.84,
+            "raw_text": "OK. All right.",
+            "clean_text": "OK. All right."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1096.34,
+            "end": 1098.84,
+            "raw_text": "Any comments on all of that?",
+            "clean_text": "Any comments on all of that?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1100.2,
+            "end": 1109.17,
+            "raw_text": "Well, one of the things that we have to decide on by the end of the meeting is who we're going to be, who's our target audience, our target market.",
+            "clean_text": "Well, one of the things that we have to decide on by the end of the meeting is who we're going to be, who's our target audience, our target market."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1109.45,
+            "end": 1119.46,
+            "raw_text": "So if we want something that looks good and is easy to use but is fairly powerful product or whatever, who do we really want to aim that at?",
+            "clean_text": "So if we want something that looks good and is easy to use but is fairly powerful product or whatever, who do we really want to aim that at?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1119.52,
+            "end": 1119.7,
+            "raw_text": "OK.",
+            "clean_text": "OK."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1121.18,
+            "end": 1121.7,
+            "raw_text": "Where's the money?",
+            "clean_text": "Where's the money?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1122.72,
+            "end": 1124.6,
+            "raw_text": "Yeah, he would have the money to spend.",
+            "clean_text": "Yeah, he would have the money to spend."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1125.52,
+            "end": 1139.11,
+            "raw_text": "Well, if like 25 euro is our selling price and you can imagine, well, I'm not really sure how much that will retail at, but you want somebody who's not going to just use their moat that comes with their tally, I suppose they're going to actually go out and buy one.",
+            "clean_text": "Well, if like 25 euro is our selling price and you can imagine, well, I'm not really sure how much that will retail at, but you want somebody who's not going to just use their moat that comes with their tally, I suppose they're going to actually go out and buy one."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1139.63,
+            "end": 1141.47,
+            "raw_text": "So who do you think we're aiming this at?",
+            "clean_text": "So who do you think we're aiming this at?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1143.99,
+            "end": 1150.86,
+            "raw_text": "I think it'll be the mid-range to the high-end market in terms of people because 25 euros for a remote, how much is that?",
+            "clean_text": "I think it'll be the mid-range to the high-end market in terms of people because 25 euros for a remote, how much is that?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1151.3,
+            "end": 1154.24,
+            "raw_text": "It's about 16-17 pounds, I think.",
+            "clean_text": "It's about 16-17 pounds, I think."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1154.4,
+            "end": 1157.62,
+            "raw_text": "Is that a lot of money to buy an extra remote or a replacement remote?",
+            "clean_text": "Is that a lot of money to buy an extra remote or a replacement remote?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1158.34,
+            "end": 1158.76,
+            "raw_text": "Okay.",
+            "clean_text": "Okay."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1159.82,
+            "end": 1165.09,
+            "raw_text": "So maybe not the high-end range, but maybe middle-middle-upish.",
+            "clean_text": "So maybe not the high-end range, but maybe middle-middle-upish."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1165.71,
+            "end": 1167.49,
+            "raw_text": "Okay.",
+            "clean_text": "Okay."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1167.53,
+            "end": 1167.81,
+            "raw_text": "How much?",
+            "clean_text": "How much?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1168.03,
+            "end": 1168.37,
+            "raw_text": "I don't know.",
+            "clean_text": "I don't know."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1168.41,
+            "end": 1169.77,
+            "raw_text": "I guess you'd be like 10.",
+            "clean_text": "I guess you'd be like 10."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1172.65,
+            "end": 1179.41,
+            "raw_text": "This kind of touches on your comments, David.",
+            "clean_text": "This kind of touches on your comments, David."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1179.43,
+            "end": 1182.58,
+            "raw_text": "These are the age groups which we have information on.",
+            "clean_text": "These are the age groups which we have information on."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1182.78,
+            "end": 1185.98,
+            "raw_text": "This is a table of what people would pay more for a certain feature.",
+            "clean_text": "This is a table of what people would pay more for a certain feature."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1186.3,
+            "end": 1191.08,
+            "raw_text": "Just give us a rough idea of where the will to spend money on TV equipment is.",
+            "clean_text": "Just give us a rough idea of where the will to spend money on TV equipment is."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1191.9,
+            "end": 1195.0,
+            "raw_text": "Mostly focused around the 25 age group.",
+            "clean_text": "Mostly focused around the 25 age group."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1195.22,
+            "end": 1197.5,
+            "raw_text": "Do you think we're aiming at a fairly young market then?",
+            "clean_text": "Do you think we're aiming at a fairly young market then?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1198.42,
+            "end": 1198.57,
+            "raw_text": "Yeah.",
+            "clean_text": "Yeah."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1198.77,
+            "end": 1199.96,
+            "raw_text": "Sort of young professional.",
+            "clean_text": "Sort of young professional."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1200.37,
+            "end": 1200.75,
+            "raw_text": "Yeah.",
+            "clean_text": "Yeah."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1201.21,
+            "end": 1202.59,
+            "raw_text": "Okay.",
+            "clean_text": "Okay."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1202.93,
+            "end": 1208.31,
+            "raw_text": "Do you think then voice recognition is something we should really seriously consider?",
+            "clean_text": "Do you think then voice recognition is something we should really seriously consider?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1210.61,
+            "end": 1211.65,
+            "raw_text": "What do you think, Craig?",
+            "clean_text": "What do you think, Craig?"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 1212.03,
+            "end": 1216.93,
+            "raw_text": "Well, do you notice it was the adults that were going for the work recognition job?",
+            "clean_text": "Well, do you notice it was the adults that were going for the work recognition job?"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 1216.99,
+            "end": 1219.09,
+            "raw_text": "Yeah.",
+            "clean_text": "Yeah."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1219.97,
+            "end": 1223.85,
+            "raw_text": "It does fit with the market that we're sort of identifying in terms of",
+            "clean_text": "It does fit with the market that we're sort of identifying in terms of"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1224.61,
+            "end": 1233.55,
+            "raw_text": "I think we are going to have to narrow it down to say let's target these people and give them what they want because you know there needs to be some kind of selling point to it.",
+            "clean_text": "I think we are going to have to narrow it down to say let's target these people and give them what they want because you know there needs to be some kind of selling point to it."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1234.01,
+            "end": 1246.92,
+            "raw_text": "So anybody anything to add just kind of young professionals like if we are going to include speech recognition it's kind of between 15 and 35 seems to be like a really high response to that.",
+            "clean_text": "So anybody anything to add just kind of young professionals like if we are going to include speech recognition it's kind of between 15 and 35 seems to be like a really high response to that."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1247.48,
+            "end": 1254.03,
+            "raw_text": "So we could say that was our target.",
+            "clean_text": "So we could say that was our target."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1254.65,
+            "end": 1265.05,
+            "raw_text": "Okay, so 15 to 35, fairly young, you know they have a bit of expendable income to spend on this sort of thing.",
+            "clean_text": "Okay, so 15 to 35, fairly young, you know they have a bit of expendable income to spend on this sort of thing."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1265.07,
+            "end": 1268.99,
+            "raw_text": "I think perhaps that each group is significant as well because those are people who use the computer.",
+            "clean_text": "I think perhaps that each group is significant as well because those are people who use the computer."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1269.93,
+            "end": 1274.96,
+            "raw_text": "who are familiar with computers in their everyday work.",
+            "clean_text": "who are familiar with computers in their everyday work."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1276.9,
+            "end": 1285.87,
+            "raw_text": "I wouldn't say 35, but people around 40-ish and above now would not be so dependent and reliant on a computer or a mobile phone or something like that.",
+            "clean_text": "I wouldn't say 35, but people around 40-ish and above now would not be so dependent and reliant on a computer or a mobile phone or something like that."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1286.17,
+            "end": 1287.77,
+            "raw_text": "These are people who are gadgety, right?",
+            "clean_text": "These are people who are gadgety, right?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1287.79,
+            "end": 1292.82,
+            "raw_text": "People who are growing up used to in schools and in universities when they go on to their working lives.",
+            "clean_text": "People who are growing up used to in schools and in universities when they go on to their working lives."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1292.99,
+            "end": 1296.82,
+            "raw_text": "Yeah, so we'll not shy away from something quite high tech.",
+            "clean_text": "Yeah, so we'll not shy away from something quite high tech."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1296.92,
+            "end": 1298.54,
+            "raw_text": "That's a good point.",
+            "clean_text": "That's a good point."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1298.88,
+            "end": 1306.31,
+            "raw_text": "Okay, so shall we make the decision to include speech recognition?",
+            "clean_text": "Okay, so shall we make the decision to include speech recognition?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1307.21,
+            "end": 1307.73,
+            "raw_text": "If we can.",
+            "clean_text": "If we can."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1307.83,
+            "end": 1313.21,
+            "raw_text": "I think one thing we should try not to avoid is not to say we have to use speech recognition right now.",
+            "clean_text": "I think one thing we should try not to avoid is not to say we have to use speech recognition right now."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1313.51,
+            "end": 1314.97,
+            "raw_text": "Okay, what is that?",
+            "clean_text": "Okay, what is that?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1315.89,
+            "end": 1317.81,
+            "raw_text": "Based on what everybody is saying, right?",
+            "clean_text": "Based on what everybody is saying, right?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1318.03,
+            "end": 1318.99,
+            "raw_text": "You want something simple.",
+            "clean_text": "You want something simple."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1319.21,
+            "end": 1322.35,
+            "raw_text": "You want basic stuff and you want something that is easy to use.",
+            "clean_text": "You want basic stuff and you want something that is easy to use."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1322.39,
+            "end": 1325.89,
+            "raw_text": "Speech recognition might not be the simplest thing.",
+            "clean_text": "Speech recognition might not be the simplest thing."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1325.95,
+            "end": 1328.99,
+            "raw_text": "Could it be an on-off thing, like if you want it?",
+            "clean_text": "Could it be an on-off thing, like if you want it?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1329.01,
+            "end": 1330.39,
+            "raw_text": "Or you can activate it and deactivate it?",
+            "clean_text": "Or you can activate it and deactivate it?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1330.43,
+            "end": 1330.57,
+            "raw_text": "Yeah.",
+            "clean_text": "Yeah."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1330.59,
+            "end": 1333.31,
+            "raw_text": "We kind of lock ourselves into a particular kind of technology.",
+            "clean_text": "We kind of lock ourselves into a particular kind of technology."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1333.37,
+            "end": 1333.57,
+            "raw_text": "Yeah.",
+            "clean_text": "Yeah."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1333.63,
+            "end": 1337.89,
+            "raw_text": "Other than focusing on exactly what are the features that we're going to say.",
+            "clean_text": "Other than focusing on exactly what are the features that we're going to say."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1337.91,
+            "end": 1338.17,
+            "raw_text": "Okay.",
+            "clean_text": "Okay."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1338.65,
+            "end": 1341.2,
+            "raw_text": "You know, say speech recognition is good for this.",
+            "clean_text": "You know, say speech recognition is good for this."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1341.26,
+            "end": 1342.7,
+            "raw_text": "Speech recognition is not good for this.",
+            "clean_text": "Speech recognition is not good for this."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1343.02,
+            "end": 1349.94,
+            "raw_text": "sure okay okay well do you want to give us your presentation and then we can I might have been a good idea to all deliver presentations and then discuss",
+            "clean_text": "sure okay okay well do you want to give us your presentation and then we can I might have been a good idea to all deliver presentations and then discuss"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1363.94,
+            "end": 1366.08,
+            "raw_text": "Good to get ideas out while they're fresh in mind.",
+            "clean_text": "Good to get ideas out while they're fresh in mind."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1366.22,
+            "end": 1367.92,
+            "raw_text": "Exactly, yeah.",
+            "clean_text": "Exactly, yeah."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1367.94,
+            "end": 1378.71,
+            "raw_text": "Suddenly, it's just occurred to me as well, if we incorporate speech recognition, that's appealing to people maybe with physical disability as well.",
+            "clean_text": "Suddenly, it's just occurred to me as well, if we incorporate speech recognition, that's appealing to people maybe with physical disability as well."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1379.32,
+            "end": 1395.69,
+            "raw_text": "Yeah, and not losing and also it helps in terms of people not losing this you know, they're saying oh, I lose it in the couch Yeah, it's like we're kind of what we're sort of getting into here is mating different Design features together",
+            "clean_text": "Yeah, and not losing and also it helps in terms of people not losing this you know, they're saying oh, I lose it in the couch Yeah, it's like we're kind of what we're sort of getting into here is mating different Design features together"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 1397.39,
+            "end": 1403.59,
+            "raw_text": "One problem with speech recognition is I've actually seen one of them used and the technology it was in that one wasn't particularly amusing.",
+            "clean_text": "One problem with speech recognition is I've actually seen one of them used and the technology it was in that one wasn't particularly amusing."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 1403.75,
+            "end": 1405.25,
+            "raw_text": "So you end up yelling in control for hours.",
+            "clean_text": "So you end up yelling in control for hours."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 1405.35,
+            "end": 1407.56,
+            "raw_text": "I really have seen one before.",
+            "clean_text": "I really have seen one before."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1407.58,
+            "end": 1413.56,
+            "raw_text": "Do you think maybe we need like further advances in that kind of area until it's worthwhile incorporating it?",
+            "clean_text": "Do you think maybe we need like further advances in that kind of area until it's worthwhile incorporating it?"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 1413.58,
+            "end": 1414.44,
+            "raw_text": "Probably quite expensive.",
+            "clean_text": "Probably quite expensive."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 1414.46,
+            "end": 1415.02,
+            "raw_text": "There you go.",
+            "clean_text": "There you go."
+        },
+        {
+            "speaker": "UNKNOWN",
+            "start": 1421.29,
+            "end": 1421.63,
+            "raw_text": "Nice.",
+            "clean_text": "Nice."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 1422.11,
+            "end": 1423.73,
+            "raw_text": "Well, this is just the working design.",
+            "clean_text": "Well, this is just the working design."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1425.83,
+            "end": 1428.53,
+            "raw_text": "Well, this is just how I would go about it.",
+            "clean_text": "Well, this is just how I would go about it."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1429.85,
+            "end": 1434.47,
+            "raw_text": "I guess I try to define what we're doing now, try to define what we're trying to get done.",
+            "clean_text": "I guess I try to define what we're doing now, try to define what we're trying to get done."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1434.55,
+            "end": 1437.06,
+            "raw_text": "I think in a practical way, we kind of know what it is.",
+            "clean_text": "I think in a practical way, we kind of know what it is."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1437.23,
+            "end": 1437.82,
+            "raw_text": "We've used it.",
+            "clean_text": "We've used it."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1437.84,
+            "end": 1438.64,
+            "raw_text": "We're familiar with it.",
+            "clean_text": "We're familiar with it."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1438.7,
+            "end": 1443.54,
+            "raw_text": "But we haven't narrowed down exactly what the things we're trying to fulfill.",
+            "clean_text": "But we haven't narrowed down exactly what the things we're trying to fulfill."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1445.1,
+            "end": 1445.98,
+            "raw_text": "Designs the basics.",
+            "clean_text": "Designs the basics."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1446.06,
+            "end": 1448.88,
+            "raw_text": "I think in the back of our minds, we know what the basics are.",
+            "clean_text": "I think in the back of our minds, we know what the basics are."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1449.18,
+            "end": 1449.98,
+            "raw_text": "There's change channels.",
+            "clean_text": "There's change channels."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1450.0,
+            "end": 1450.78,
+            "raw_text": "There's change volume.",
+            "clean_text": "There's change volume."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1451.66,
+            "end": 1453.18,
+            "raw_text": "in, like, specifics, right?",
+            "clean_text": "in, like, specifics, right?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1453.22,
+            "end": 1454.98,
+            "raw_text": "Which one of the basics are you trying to target?",
+            "clean_text": "Which one of the basics are you trying to target?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1455.88,
+            "end": 1459.42,
+            "raw_text": "Are there certain parts of the basics that are more important or less important than the basics?",
+            "clean_text": "Are there certain parts of the basics that are more important or less important than the basics?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1459.99,
+            "end": 1468.45,
+            "raw_text": "I mean, I just, the idea is just to get everybody to, um, I usually have a, have, have a design that's there as a basic.",
+            "clean_text": "I mean, I just, the idea is just to get everybody to, um, I usually have a, have, have a design that's there as a basic."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1468.97,
+            "end": 1471.93,
+            "raw_text": "So, you know, things that, to start everything going.",
+            "clean_text": "So, you know, things that, to start everything going."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1472.57,
+            "end": 1476.16,
+            "raw_text": "But I guess everybody does have some ideas, so I don't think, um, anything for that.",
+            "clean_text": "But I guess everybody does have some ideas, so I don't think, um, anything for that."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1478.96,
+            "end": 1481.58,
+            "raw_text": "Okay, this finding thing is a little bit confusing.",
+            "clean_text": "Okay, this finding thing is a little bit confusing."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1481.6,
+            "end": 1483.16,
+            "raw_text": "So I'll go into the diagram first.",
+            "clean_text": "So I'll go into the diagram first."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1483.4,
+            "end": 1491.24,
+            "raw_text": "It just explains how the process goes through from the basic technology point of view, the basic steps that you need in the diagram.",
+            "clean_text": "It just explains how the process goes through from the basic technology point of view, the basic steps that you need in the diagram."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1491.26,
+            "end": 1492.46,
+            "raw_text": "This slide probably works better.",
+            "clean_text": "This slide probably works better."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1493.6,
+            "end": 1498.7,
+            "raw_text": "Okay, you need some power source, your battery or something typically.",
+            "clean_text": "Okay, you need some power source, your battery or something typically."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1498.9,
+            "end": 1504.55,
+            "raw_text": "And that power source is important because it ties you down to how long the device will last.",
+            "clean_text": "And that power source is important because it ties you down to how long the device will last."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1505.23,
+            "end": 1509.35,
+            "raw_text": "It ties you down perhaps a bit later in terms of technologies.",
+            "clean_text": "It ties you down perhaps a bit later in terms of technologies."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1509.59,
+            "end": 1514.23,
+            "raw_text": "How far you can transmit a signal or the complexity of the functions that you want.",
+            "clean_text": "How far you can transmit a signal or the complexity of the functions that you want."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1514.59,
+            "end": 1516.29,
+            "raw_text": "Like for example, voice recognition, right?",
+            "clean_text": "Like for example, voice recognition, right?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1516.61,
+            "end": 1520.67,
+            "raw_text": "That might be constrained because that you might need to power microphone, you might need to power other things.",
+            "clean_text": "That might be constrained because that you might need to power microphone, you might need to power other things."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1521.19,
+            "end": 1523.03,
+            "raw_text": "So that's one perhaps constraint there.",
+            "clean_text": "So that's one perhaps constraint there."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1526.15,
+            "end": 1534.69,
+            "raw_text": "OK, the basic thing is there's a user interface where people punch a button, or talk into it, or smile to it, or blink their eyes, whatever.",
+            "clean_text": "OK, the basic thing is there's a user interface where people punch a button, or talk into it, or smile to it, or blink their eyes, whatever."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1535.49,
+            "end": 1538.66,
+            "raw_text": "And that picks up an input from the user.",
+            "clean_text": "And that picks up an input from the user."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1539.16,
+            "end": 1544.86,
+            "raw_text": "A series of logic has to decide what the user is telling the device.",
+            "clean_text": "A series of logic has to decide what the user is telling the device."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1544.94,
+            "end": 1550.04,
+            "raw_text": "And the device has to, based on you push button A, so I'll do something with button A.",
+            "clean_text": "And the device has to, based on you push button A, so I'll do something with button A."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1550.08,
+            "end": 1551.36,
+            "raw_text": "So maybe button A is the problem.",
+            "clean_text": "So maybe button A is the problem."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1552.8,
+            "end": 1557.72,
+            "raw_text": "And then he needs to be able to send this thing off to the device itself, which is the receiver here.",
+            "clean_text": "And then he needs to be able to send this thing off to the device itself, which is the receiver here."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1558.06,
+            "end": 1561.62,
+            "raw_text": "And I think that's about it in terms of my design.",
+            "clean_text": "And I think that's about it in terms of my design."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1562.99,
+            "end": 1564.01,
+            "raw_text": "It's fairly general.",
+            "clean_text": "It's fairly general."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1564.79,
+            "end": 1571.25,
+            "raw_text": "And I guess the purpose of this is also not to restrict you in the way you're thinking, like voice recognition, right?",
+            "clean_text": "And I guess the purpose of this is also not to restrict you in the way you're thinking, like voice recognition, right?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1573.19,
+            "end": 1578.31,
+            "raw_text": "If it's something which is important, then we just add more power rather than having a thing that we don't have enough power.",
+            "clean_text": "If it's something which is important, then we just add more power rather than having a thing that we don't have enough power."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1578.33,
+            "end": 1579.79,
+            "raw_text": "So it's not really constrained in that sense.",
+            "clean_text": "So it's not really constrained in that sense."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1580.47,
+            "end": 1585.42,
+            "raw_text": "I mean, these are functionally, you know, the basic what technology has to do.",
+            "clean_text": "I mean, these are functionally, you know, the basic what technology has to do."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1587.06,
+            "end": 1591.53,
+            "raw_text": "So I guess the rest of it, I think we should, maybe you want to go back to what the functions are.",
+            "clean_text": "So I guess the rest of it, I think we should, maybe you want to go back to what the functions are."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1591.83,
+            "end": 1594.31,
+            "raw_text": "I think that's an element to the discussion.",
+            "clean_text": "I think that's an element to the discussion."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1594.33,
+            "end": 1598.26,
+            "raw_text": "Do you want to finish up your presentation?",
+            "clean_text": "Do you want to finish up your presentation?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1598.4,
+            "end": 1599.2,
+            "raw_text": "Are you all done?",
+            "clean_text": "Are you all done?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1599.64,
+            "end": 1599.8,
+            "raw_text": "Yeah.",
+            "clean_text": "Yeah."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1600.94,
+            "end": 1605.4,
+            "raw_text": "Oh, it's just putting the rest of it into words, but it's essentially the same thing.",
+            "clean_text": "Oh, it's just putting the rest of it into words, but it's essentially the same thing."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1605.76,
+            "end": 1611.16,
+            "raw_text": "You have a transmitter and then put it as a logic chip.",
+            "clean_text": "You have a transmitter and then put it as a logic chip."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1611.28,
+            "end": 1611.68,
+            "raw_text": "OK.",
+            "clean_text": "OK."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1611.7,
+            "end": 1619.65,
+            "raw_text": "I mean, since we're on the topic of the technology, are there any, what are our options?",
+            "clean_text": "I mean, since we're on the topic of the technology, are there any, what are our options?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1620.73,
+            "end": 1624.05,
+            "raw_text": "Is this the only way that we go about it, or are there other?",
+            "clean_text": "Is this the only way that we go about it, or are there other?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1624.83,
+            "end": 1627.29,
+            "raw_text": "These aren't technology options in that sense.",
+            "clean_text": "These aren't technology options in that sense."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1627.31,
+            "end": 1632.3,
+            "raw_text": "This is just a basic principle and basic components that I needed.",
+            "clean_text": "This is just a basic principle and basic components that I needed."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1632.32,
+            "end": 1645.47,
+            "raw_text": "For example, if you needed to add a voice recognition, then your user interface would be broken down into more components, which you have a microphone, a VR, and stuff like that.",
+            "clean_text": "For example, if you needed to add a voice recognition, then your user interface would be broken down into more components, which you have a microphone, a VR, and stuff like that."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1645.67,
+            "end": 1648.13,
+            "raw_text": "So it's just how we're modularizing the whole thing.",
+            "clean_text": "So it's just how we're modularizing the whole thing."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1648.89,
+            "end": 1659.55,
+            "raw_text": "So each component represents one function, but I think the basic functions of the logic, the transmitter and the receiver and the power are things that you won't have to care about.",
+            "clean_text": "So each component represents one function, but I think the basic functions of the logic, the transmitter and the receiver and the power are things that you won't have to care about."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1660.37,
+            "end": 1665.74,
+            "raw_text": "And those are things that based on what your user interface requires, they will add more functionality to it.",
+            "clean_text": "And those are things that based on what your user interface requires, they will add more functionality to it."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1666.2,
+            "end": 1670.68,
+            "raw_text": "There might be one other consideration which would be the transmission between",
+            "clean_text": "There might be one other consideration which would be the transmission between"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1671.42,
+            "end": 1673.44,
+            "raw_text": "the remote control and the TV, for example.",
+            "clean_text": "the remote control and the TV, for example."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1673.92,
+            "end": 1674.32,
+            "raw_text": "Okay.",
+            "clean_text": "Okay."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1674.5,
+            "end": 1679.5,
+            "raw_text": "Are we going to restrict ourselves to using the traditional technologies?",
+            "clean_text": "Are we going to restrict ourselves to using the traditional technologies?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1679.96,
+            "end": 1680.4,
+            "raw_text": "Okay.",
+            "clean_text": "Okay."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1680.48,
+            "end": 1683.2,
+            "raw_text": "Because that's something you need to actually be physically pointing to.",
+            "clean_text": "Because that's something you need to actually be physically pointing to."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1683.58,
+            "end": 1683.98,
+            "raw_text": "Okay.",
+            "clean_text": "Okay."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1684.2,
+            "end": 1685.22,
+            "raw_text": "Right.",
+            "clean_text": "Right."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1685.24,
+            "end": 1693.69,
+            "raw_text": "Well, a worry that was expressed in the new requirements was that if we made this too complex, it would affect how long it took us to get this to market.",
+            "clean_text": "Well, a worry that was expressed in the new requirements was that if we made this too complex, it would affect how long it took us to get this to market."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1694.61,
+            "end": 1706.88,
+            "raw_text": "I suspect it might be a good idea to restrict our creative influence on this on the user interface and not worry so much about how we transmit it because it's tried and tested and for ads.",
+            "clean_text": "I suspect it might be a good idea to restrict our creative influence on this on the user interface and not worry so much about how we transmit it because it's tried and tested and for ads."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1707.26,
+            "end": 1712.6,
+            "raw_text": "There might be one other problem with the transmission in particular right now since we're talking about voice recognition.",
+            "clean_text": "There might be one other problem with the transmission in particular right now since we're talking about voice recognition."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1713.22,
+            "end": 1717.55,
+            "raw_text": "If somebody's going to talk to the device, you really want them to hold it to them.",
+            "clean_text": "If somebody's going to talk to the device, you really want them to hold it to them."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1718.53,
+            "end": 1728.19,
+            "raw_text": "You may not require that, but it's something very natural, I guess, to hold it, signal to the user and push a button to start talking about it.",
+            "clean_text": "You may not require that, but it's something very natural, I guess, to hold it, signal to the user and push a button to start talking about it."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1728.41,
+            "end": 1729.75,
+            "raw_text": "Then you need to send the signal out.",
+            "clean_text": "Then you need to send the signal out."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1729.77,
+            "end": 1731.97,
+            "raw_text": "So if you're using infrared, the line of sight,",
+            "clean_text": "So if you're using infrared, the line of sight,"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1732.43,
+            "end": 1738.06,
+            "raw_text": "I'll say the TV's at that chair, and I'm standing in front of here in the transmitter chair, it blocks it.",
+            "clean_text": "I'll say the TV's at that chair, and I'm standing in front of here in the transmitter chair, it blocks it."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1738.38,
+            "end": 1745.46,
+            "raw_text": "So in that sense, there's not really a restriction, but it's something you may have to think about later on in the process.",
+            "clean_text": "So in that sense, there's not really a restriction, but it's something you may have to think about later on in the process."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1745.64,
+            "end": 1760.32,
+            "raw_text": "And then just to clarification before we finish this, is our controller have the option of being on a standard frequency as all of the other equipment so that the one controller can control several pieces of",
+            "clean_text": "And then just to clarification before we finish this, is our controller have the option of being on a standard frequency as all of the other equipment so that the one controller can control several pieces of"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1761.7,
+            "end": 1768.38,
+            "raw_text": "specific information, but I think that one, the implication of infrared means that you're just targeting traditional devices.",
+            "clean_text": "specific information, but I think that one, the implication of infrared means that you're just targeting traditional devices."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1768.64,
+            "end": 1769.0,
+            "raw_text": "Yeah.",
+            "clean_text": "Yeah."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1769.06,
+            "end": 1770.96,
+            "raw_text": "Is infrared something that should be the target?",
+            "clean_text": "Is infrared something that should be the target?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1770.98,
+            "end": 1775.12,
+            "raw_text": "Well, we've, in the new requirements spec, they said just to focus on a TV.",
+            "clean_text": "Well, we've, in the new requirements spec, they said just to focus on a TV."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1775.14,
+            "end": 1776.62,
+            "raw_text": "So that's what we should do for now, I think.",
+            "clean_text": "So that's what we should do for now, I think."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1776.92,
+            "end": 1779.02,
+            "raw_text": "Something I was wondering about was the power.",
+            "clean_text": "Something I was wondering about was the power."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1779.56,
+            "end": 1784.48,
+            "raw_text": "Is it worth considering having like a charging unit as opposed to just regular batteries?",
+            "clean_text": "Is it worth considering having like a charging unit as opposed to just regular batteries?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1784.94,
+            "end": 1787.56,
+            "raw_text": "I mean, is that something you really want to go into, do you think?",
+            "clean_text": "I mean, is that something you really want to go into, do you think?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1787.66,
+            "end": 1790.24,
+            "raw_text": "Or should we just consider running on regular batteries?",
+            "clean_text": "Or should we just consider running on regular batteries?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1790.85,
+            "end": 1793.31,
+            "raw_text": "Component point of view, there's added complexity.",
+            "clean_text": "Component point of view, there's added complexity."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1793.37,
+            "end": 1795.35,
+            "raw_text": "You add cost to it.",
+            "clean_text": "You add cost to it."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1795.63,
+            "end": 1798.87,
+            "raw_text": "And then there's probably the fact that you need another physical component.",
+            "clean_text": "And then there's probably the fact that you need another physical component."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1798.91,
+            "end": 1801.07,
+            "raw_text": "You need docking trail, for example.",
+            "clean_text": "You need docking trail, for example."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1801.13,
+            "end": 1802.05,
+            "raw_text": "Put it into charge.",
+            "clean_text": "Put it into charge."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1802.39,
+            "end": 1805.57,
+            "raw_text": "Or you need to get the user to plug it in.",
+            "clean_text": "Or you need to get the user to plug it in."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1805.63,
+            "end": 1810.76,
+            "raw_text": "Most users are already used to the idea of buying batteries and putting it into your controller.",
+            "clean_text": "Most users are already used to the idea of buying batteries and putting it into your controller."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1810.8,
+            "end": 1819.26,
+            "raw_text": "But unless the controller's going to consume a lot of batteries, like he's going to run through batteries a month, then I don't think rechargeable is something",
+            "clean_text": "But unless the controller's going to consume a lot of batteries, like he's going to run through batteries a month, then I don't think rechargeable is something"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1820.1,
+            "end": 1823.54,
+            "raw_text": "Okay, so just stick to regular, okay.",
+            "clean_text": "Okay, so just stick to regular, okay."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1827.2,
+            "end": 1842.97,
+            "raw_text": "Right, so basically I'm just gonna just recap what I said at the start was that the whole point of this meeting was to absolutely finalize who we're gonna aim this at and what exactly the product's gonna do.",
+            "clean_text": "Right, so basically I'm just gonna just recap what I said at the start was that the whole point of this meeting was to absolutely finalize who we're gonna aim this at and what exactly the product's gonna do."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1843.55,
+            "end": 1854.33,
+            "raw_text": "So just to recap, are we all happy about the idea of aiming the product at the 15 to 35 bracket?",
+            "clean_text": "So just to recap, are we all happy about the idea of aiming the product at the 15 to 35 bracket?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1856.69,
+            "end": 1860.02,
+            "raw_text": "And also the actual functions of what it's going to do.",
+            "clean_text": "And also the actual functions of what it's going to do."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1860.4,
+            "end": 1861.94,
+            "raw_text": "Do you want to recap on that, Craig?",
+            "clean_text": "Do you want to recap on that, Craig?"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 1863.42,
+            "end": 1868.02,
+            "raw_text": "I think we used to say it was going to be the most basic stuff possible.",
+            "clean_text": "I think we used to say it was going to be the most basic stuff possible."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 1869.0,
+            "end": 1871.12,
+            "raw_text": "On off, up and down channels, up and down volume.",
+            "clean_text": "On off, up and down channels, up and down volume."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 1871.56,
+            "end": 1872.7,
+            "raw_text": "And they skipped their channel.",
+            "clean_text": "And they skipped their channel."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1875.41,
+            "end": 1881.09,
+            "raw_text": "Is it going to include any of the more advanced features or are we going to eliminate those?",
+            "clean_text": "Is it going to include any of the more advanced features or are we going to eliminate those?"
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 1881.11,
+            "end": 1887.12,
+            "raw_text": "I think we include new, but apart from that, I think we just go for the simpleness.",
+            "clean_text": "I think we include new, but apart from that, I think we just go for the simpleness."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1889.72,
+            "end": 1893.86,
+            "raw_text": "Is it not an option still that we include some things just as a sort of under a door?",
+            "clean_text": "Is it not an option still that we include some things just as a sort of under a door?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1895.4,
+            "end": 1897.22,
+            "raw_text": "as optional functions.",
+            "clean_text": "as optional functions."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1897.24,
+            "end": 1913.52,
+            "raw_text": "What I'd be a bit worried about is if someone had previously developed habits of expecting to control surround sound or this and that with their controller and then they get ours and it doesn't have that.",
+            "clean_text": "What I'd be a bit worried about is if someone had previously developed habits of expecting to control surround sound or this and that with their controller and then they get ours and it doesn't have that."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 1913.54,
+            "end": 1915.28,
+            "raw_text": "I don't know if that'd be a problem.",
+            "clean_text": "I don't know if that'd be a problem."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1916.68,
+            "end": 1925.05,
+            "raw_text": "Another thing that you were saying about categorizing the controls, maybe I could suggest we break them down into three simple categories.",
+            "clean_text": "Another thing that you were saying about categorizing the controls, maybe I could suggest we break them down into three simple categories."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1925.12,
+            "end": 1929.71,
+            "raw_text": "One would be audio controls, one would be video controls, the other one would be a device.",
+            "clean_text": "One would be audio controls, one would be video controls, the other one would be a device."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1930.49,
+            "end": 1942.64,
+            "raw_text": "This may not map very well to advanced functionality especially, but I think that from a manufacturer's point of view, a certain person designing the device, but I think from the point of view of a person using a device,",
+            "clean_text": "This may not map very well to advanced functionality especially, but I think that from a manufacturer's point of view, a certain person designing the device, but I think from the point of view of a person using a device,"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1943.24,
+            "end": 1945.34,
+            "raw_text": "You know a TV is something they see and something they hear.",
+            "clean_text": "You know a TV is something they see and something they hear."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1946.22,
+            "end": 1949.87,
+            "raw_text": "And it's something they do other things to, like, turn it on and turn it off.",
+            "clean_text": "And it's something they do other things to, like, turn it on and turn it off."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1950.18,
+            "end": 1952.63,
+            "raw_text": "You know what we could have is like three buckets, right?",
+            "clean_text": "You know what we could have is like three buckets, right?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1952.71,
+            "end": 1955.65,
+            "raw_text": "We could throw things into, like, if we want this feature, let's throw it into there.",
+            "clean_text": "We could throw things into, like, if we want this feature, let's throw it into there."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1955.97,
+            "end": 1959.71,
+            "raw_text": "And then from there, decide whether it's basic or it's non-basic.",
+            "clean_text": "And then from there, decide whether it's basic or it's non-basic."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1959.75,
+            "end": 1961.55,
+            "raw_text": "I might help with the visualization.",
+            "clean_text": "I might help with the visualization."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1961.91,
+            "end": 1964.94,
+            "raw_text": "And it would actually help with the component build as well.",
+            "clean_text": "And it would actually help with the component build as well."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1965.22,
+            "end": 1966.56,
+            "raw_text": "OK. OK, great.",
+            "clean_text": "OK. OK, great."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1966.6,
+            "end": 1967.9,
+            "raw_text": "Right.",
+            "clean_text": "Right."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1968.58,
+            "end": 1972.16,
+            "raw_text": "OK, well, I've got five minutes to wrap up now.",
+            "clean_text": "OK, well, I've got five minutes to wrap up now."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1972.34,
+            "end": 1974.1,
+            "raw_text": "Next thing we're doing is having lunch.",
+            "clean_text": "Next thing we're doing is having lunch."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1975.04,
+            "end": 1979.72,
+            "raw_text": "And then we're going to have 30 minutes of working on the next stage.",
+            "clean_text": "And then we're going to have 30 minutes of working on the next stage."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1979.96,
+            "end": 1986.18,
+            "raw_text": "So I'll be putting the minutes of this meeting into the project documents folder.",
+            "clean_text": "So I'll be putting the minutes of this meeting into the project documents folder."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1986.84,
+            "end": 1993.36,
+            "raw_text": "So I guess just to confirm that we know what we're doing in the next, well, in the 30 minutes after lunch anyway.",
+            "clean_text": "So I guess just to confirm that we know what we're doing in the next, well, in the 30 minutes after lunch anyway."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 1995.98,
+            "end": 2001.24,
+            "raw_text": "For our industrial designer, you're going to be thinking about the components concept.",
+            "clean_text": "For our industrial designer, you're going to be thinking about the components concept."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 2001.35,
+            "end": 2004.13,
+            "raw_text": "User interface designer, you're going to be thinking about our user interface.",
+            "clean_text": "User interface designer, you're going to be thinking about our user interface."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 2004.41,
+            "end": 2006.61,
+            "raw_text": "And marketing, you're going to be thinking about trend watching.",
+            "clean_text": "And marketing, you're going to be thinking about trend watching."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 2007.45,
+            "end": 2009.79,
+            "raw_text": "And you'll all get specific instructions as well.",
+            "clean_text": "And you'll all get specific instructions as well."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 2010.35,
+            "end": 2022.33,
+            "raw_text": "So I know just to ask now, if you've got anything else you thought about while we've been talking, do you want to start with David Lentzen-Elstersay at all?",
+            "clean_text": "So I know just to ask now, if you've got anything else you thought about while we've been talking, do you want to start with David Lentzen-Elstersay at all?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 2023.49,
+            "end": 2023.67,
+            "raw_text": "No?",
+            "clean_text": "No?"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 2023.89,
+            "end": 2023.97,
+            "raw_text": "OK.",
+            "clean_text": "OK."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 2025.43,
+            "end": 2037.54,
+            "raw_text": "Yeah, I just wanted to ask then before we wrap up, should we agree for a sake of sort of clarity and when we resume that we'll use this idea, David's proposal, we think of these three sort of buckets.",
+            "clean_text": "Yeah, I just wanted to ask then before we wrap up, should we agree for a sake of sort of clarity and when we resume that we'll use this idea, David's proposal, we think of these three sort of buckets."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 2037.86,
+            "end": 2040.1,
+            "raw_text": "Yeah, I think that's definitely a good idea.",
+            "clean_text": "Yeah, I think that's definitely a good idea."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 2040.58,
+            "end": 2041.54,
+            "raw_text": "Okay, we're talking about this.",
+            "clean_text": "Okay, we're talking about this."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 2041.98,
+            "end": 2042.7,
+            "raw_text": "Should we do that then?",
+            "clean_text": "Should we do that then?"
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 2042.88,
+            "end": 2043.22,
+            "raw_text": "Yeah.",
+            "clean_text": "Yeah."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 2043.31,
+            "end": 2044.17,
+            "raw_text": "Okay, great.",
+            "clean_text": "Okay, great."
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 2044.97,
+            "end": 2048.37,
+            "raw_text": "Just about the three buckets, what would go in the device functions one?",
+            "clean_text": "Just about the three buckets, what would go in the device functions one?"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 2048.89,
+            "end": 2078.17,
+            "raw_text": "things like on off because they don't have anything to do with what you see yeah in terms of picture and the entertainment value you know okay so and channel and channel because the on off also goes you know like on off like power not on off sound yeah video although you don't turn off the video on your TV but you might want to you know turn off the sound say you want to pick up the phone there's a mute button okay you have you have a choice of putting it on to",
+            "clean_text": "things like on off because they don't have anything to do with what you see yeah in terms of picture and the entertainment value you know okay so and channel and channel because the on off also goes you know like on off like power not on off sound yeah video although you don't turn off the video on your TV but you might want to you know turn off the sound say you want to pick up the phone there's a mute button okay you have you have a choice of putting it on to"
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 2080.35,
+            "end": 2091.03,
+            "raw_text": "Okay, so you're going to have audio, which is going to be like, you know, you base settings and actual volume.",
+            "clean_text": "Okay, so you're going to have audio, which is going to be like, you know, you base settings and actual volume."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 2091.05,
+            "end": 2091.83,
+            "raw_text": "Okay, and then visual.",
+            "clean_text": "Okay, and then visual."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 2097.57,
+            "end": 2116.36,
+            "raw_text": "Okay, so brightness contrast things like that and then just actual device things like what channel you're watching turning on and off stuff like that, okay I suppose quite likely what would happen is in the device category there might be some which are just like the habitual standard and then others which are maybe a bit more like",
+            "clean_text": "Okay, so brightness contrast things like that and then just actual device things like what channel you're watching turning on and off stuff like that, okay I suppose quite likely what would happen is in the device category there might be some which are just like the habitual standard and then others which are maybe a bit more like"
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 2116.74,
+            "end": 2120.78,
+            "raw_text": "random, which we have no other place to push.",
+            "clean_text": "random, which we have no other place to push."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 2121.2,
+            "end": 2125.52,
+            "raw_text": "Even if it doesn't match very clearly what happens is that people at least have some in their mind.",
+            "clean_text": "Even if it doesn't match very clearly what happens is that people at least have some in their mind."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 2125.68,
+            "end": 2126.48,
+            "raw_text": "It's easy to use.",
+            "clean_text": "It's easy to use."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 2126.6,
+            "end": 2129.06,
+            "raw_text": "I think that's one thing.",
+            "clean_text": "I think that's one thing."
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 2129.54,
+            "end": 2133.43,
+            "raw_text": "And I guess from the component point of view, you can build as well, because I think they're like faced.",
+            "clean_text": "And I guess from the component point of view, you can build as well, because I think they're like faced."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 2134.69,
+            "end": 2143.36,
+            "raw_text": "So yeah, I guess just things to think about are the fact it's got to look good because of who we're targeting this at.",
+            "clean_text": "So yeah, I guess just things to think about are the fact it's got to look good because of who we're targeting this at."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 2143.7,
+            "end": 2150.68,
+            "raw_text": "Something maybe kind of quirky in design, maybe make it kind of ergonomic to hold, things like that.",
+            "clean_text": "Something maybe kind of quirky in design, maybe make it kind of ergonomic to hold, things like that."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 2152.22,
+            "end": 2154.12,
+            "raw_text": "So I guess that's it.",
+            "clean_text": "So I guess that's it."
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 2154.14,
+            "end": 2155.2,
+            "raw_text": "That's the meeting over.",
+            "clean_text": "That's the meeting over."
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 2162.7,
+            "end": 2165.15,
+            "raw_text": "Now we get to go find out what was picked up for lunch for us.",
+            "clean_text": "Now we get to go find out what was picked up for lunch for us."
+        }
+    ]
+}

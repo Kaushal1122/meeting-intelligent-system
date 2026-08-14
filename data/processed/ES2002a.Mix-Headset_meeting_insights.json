@@ -1,0 +1,1421 @@
+{
+    "meeting_id": "ES2002a.Mix-Headset",
+    "audio_file": "C:\\Users\\Sabby\\Desktop\\meeting-intelligent-system\\data\\ami\\amicorpus\\ES2002a\\audio\\ES2002a.Mix-Headset.wav",
+    "topic_count": 25,
+    "topics": [
+        {
+            "topic_id": 1,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "I think it's already on, actually.",
+                    "start": 7.98,
+                    "end": 9.42
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "OK.",
+                    "start": 39.92,
+                    "end": 40.24
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Right.",
+                    "start": 40.56,
+                    "end": 40.82
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "OK.",
+                    "start": 41.54,
+                    "end": 41.86
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Right.",
+                    "start": 42.18,
+                    "end": 42.56
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "God, how do you make this thing work?",
+                    "start": 9.44,
+                    "end": 16.11
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Well, this is the kickoff meeting for our project.",
+                    "start": 56.2,
+                    "end": 59.34
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "And this is just what we're going to be doing over the next 25 minutes.",
+                    "start": 62.42,
+                    "end": 68.32
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Great.",
+                    "start": 74.9,
+                    "end": 75.04
+                }
+            ],
+            "summary": "I think it's already on, actually. Well, this is the kickoff meeting for our project. And this is just what we're going to be doing over the next 25 minutes."
+        },
+        {
+            "topic_id": 2,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "So first of all, just to kind of make sure that we all know each other.",
+                    "start": 68.68,
+                    "end": 72.44
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "I'm Laura, and I'm the project manager.",
+                    "start": 72.88,
+                    "end": 74.52
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Do you want to introduce yourself again?",
+                    "start": 75.12,
+                    "end": 77.36
+                },
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "Hi, I'm David, and I'm supposed to be an industrial designer.",
+                    "start": 77.48,
+                    "end": 80.9
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "OK. And I'm Andrew, and I'm our marketing",
+                    "start": 80.92,
+                    "end": 84.36
+                },
+                {
+                    "speaker": "SPEAKER_01",
+                    "text": "I'm Greg and I'm user interface.",
+                    "start": 87.24,
+                    "end": 88.58
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Great, okay.",
+                    "start": 89.33,
+                    "end": 92.83
+                }
+            ],
+            "summary": "So first of all, just to kind of make sure that we all know each other. Do you want to introduce yourself again. Hi, I'm David, and I'm supposed to be an industrial designer. And I'm Andrew, and we're our marketing. Great, okay."
+        },
+        {
+            "topic_id": 3,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "So we're designing a new remote control and oh, I have to record he's here actually.",
+                    "start": 92.85,
+                    "end": 98.19
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "So that's David, Andrew and Craig, isn't it?",
+                    "start": 98.67,
+                    "end": 101.66
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "And you all arrived on time.",
+                    "start": 104.96,
+                    "end": 106.12
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "So design and your remote control, as you can see it's supposed to be original, trendy and user friendly.",
+                    "start": 109.85,
+                    "end": 115.79
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "So that's kind of our brief.",
+                    "start": 118.21,
+                    "end": 119.89
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "And so there are three different stages to the design.",
+                    "start": 121.16,
+                    "end": 125.64
+                }
+            ],
+            "summary": "Design and your remote control is supposed to be original, trendy and user friendly. So that's kind of our brief. And so there are three different stages to the design."
+        },
+        {
+            "topic_id": 4,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "I'm not really sure what you guys have already received.",
+                    "start": 126.36,
+                    "end": 129.62
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "In your emails, what did you get?",
+                    "start": 130.64,
+                    "end": 132.02
+                },
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "I just got the project announcement.",
+                    "start": 133.24,
+                    "end": 138.21
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "So we're going to have individual work and then a meeting about it and repeat that process three times.",
+                    "start": 139.57,
+                    "end": 150.97
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "And at this point, you get to try out the whiteboard over there.",
+                    "start": 154.61,
+                    "end": 157.33
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "So you get to draw your favorite animal and sum up your favorite characteristics of it.",
+                    "start": 159.68,
+                    "end": 165.56
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "All right.",
+                    "start": 174.27,
+                    "end": 174.65
+                }
+            ],
+            "summary": "I'm not really sure what you guys have already received. In your emails, what did you get. I just got the project announcement. So we're going to have individual work and then a meeting about it and repeat that process three times. And at this point, you get to try out the whiteboard over there."
+        },
+        {
+            "topic_id": 5,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "So who would like to go first?",
+                    "start": 165.96,
+                    "end": 167.54
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Very good.",
+                    "start": 167.84,
+                    "end": 168.38
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "So this one here, right?",
+                    "start": 176.21,
+                    "end": 182.17
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Okay.",
+                    "start": 183.53,
+                    "end": 185.73
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "All right.",
+                    "start": 186.55,
+                    "end": 186.93
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "My favorite animal is like a beagle.",
+                    "start": 187.51,
+                    "end": 203.99
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "And.",
+                    "start": 212.25,
+                    "end": 213.5
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Favorite characteristics of it?",
+                    "start": 213.68,
+                    "end": 214.8
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Yeah.",
+                    "start": 216.02,
+                    "end": 216.86
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Right.",
+                    "start": 216.94,
+                    "end": 217.08
+                }
+            ],
+            "summary": "So who would like to go first. So this one here, right. All right. My favorite animal is like a beagle."
+        },
+        {
+            "topic_id": 6,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Is that right?",
+                    "start": 214.92,
+                    "end": 215.36
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Well, basically, high priority for any animal for me is that they be willing to take a lot of physical affection from their family.",
+                    "start": 217.1,
+                    "end": 228.48
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "And, yeah, they have lots of personality and.",
+                    "start": 229.46,
+                    "end": 233.26
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Right.",
+                    "start": 243.45,
+                    "end": 244.75
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "be fit and in robust good health.",
+                    "start": 235.79,
+                    "end": 237.55
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "So this is Blue Beagle, my family's Beagle.",
+                    "start": 238.01,
+                    "end": 242.27
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Lovely.",
+                    "start": 244.79,
+                    "end": 245.59
+                },
+                {
+                    "speaker": "SPEAKER_01",
+                    "text": "Well, my favourite animal would be a monkey.",
+                    "start": 255.09,
+                    "end": 256.49
+                }
+            ],
+            "summary": "High priority for any animal for me is that they be willing to take a lot of physical affection from their family. So this is Blue Beagle, my family's Beagle. Lovely. My favourite animal would be a monkey."
+        },
+        {
+            "topic_id": 7,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_01",
+                    "text": "The small cutin' furry, and when plant leaves becomes real, I'm gonna be up there with them.",
+                    "start": 268.15,
+                    "end": 281.56
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "You can take as long over this as you like, because we haven't got an awful lot to do.",
+                    "start": 285.98,
+                    "end": 290.08
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "It's up all we do, we do.",
+                    "start": 290.14,
+                    "end": 291.28
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Don't feel like you're in a rush anyway.",
+                    "start": 291.82,
+                    "end": 293.36
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "I actually told you a whole lot more about Beagle's.",
+                    "start": 296.0,
+                    "end": 299.15
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "I don't know what mine is.",
+                    "start": 299.17,
+                    "end": 301.33
+                }
+            ],
+            "summary": "The small cutin' furry, and when plant leaves becomes real, I'm gonna be up there with them. You can take as long over this as you like, because we haven't got an awful lot to do. It's up all we do, we do."
+        },
+        {
+            "topic_id": 8,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "I'm going to have to think in the spot now.",
+                    "start": 301.41,
+                    "end": 303.51
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Impressionist.",
+                    "start": 307.15,
+                    "end": 309.86
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Is that a whale?",
+                    "start": 312.1,
+                    "end": 312.74
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Yeah.",
+                    "start": 313.14,
+                    "end": 313.42
+                },
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "Well, I don't know.",
+                    "start": 320.08,
+                    "end": 321.96
+                },
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "It's just the first animal I can think off the top of my head.",
+                    "start": 321.98,
+                    "end": 323.94
+                },
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "The big reason is because I'm allergic to most animals.",
+                    "start": 325.02,
+                    "end": 327.44
+                },
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "I'm allergic to animals first, so fish was a natural choice.",
+                    "start": 327.85,
+                    "end": 331.21
+                },
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "Yeah, and I kind of like whales.",
+                    "start": 332.89,
+                    "end": 333.99
+                }
+            ],
+            "summary": "I'm allergic to animals first, so fish was a natural choice. I kind of like whales. It's just the first animal I can think off the top of my head."
+        },
+        {
+            "topic_id": 9,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "I come in and go, everything inside.",
+                    "start": 334.37,
+                    "end": 336.59
+                },
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "They're quite harmless and mild and interesting.",
+                    "start": 336.69,
+                    "end": 342.79
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "I still didn't know what I'm going to write about.",
+                    "start": 343.87,
+                    "end": 345.29
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Superb sketch, by the way.",
+                    "start": 349.76,
+                    "end": 350.87
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "I was going to choose a dog as well, but I just draw a different kind of dog.",
+                    "start": 355.07,
+                    "end": 359.63
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "My favorite animal is my own dog at home.",
+                    "start": 360.43,
+                    "end": 362.81
+                }
+            ],
+            "summary": "I was going to choose a dog as well, but I just draw a different kind of dog. My favorite animal is my own dog at home."
+        },
+        {
+            "topic_id": 10,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "That doesn't really look like him, actually.",
+                    "start": 367.03,
+                    "end": 368.61
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "He looks more like a pig, actually.",
+                    "start": 373.33,
+                    "end": 374.69
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Oh well.",
+                    "start": 375.9,
+                    "end": 376.18
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "I see a dog in there.",
+                    "start": 378.53,
+                    "end": 379.35
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Oh, that's very good of you.",
+                    "start": 379.61,
+                    "end": 380.99
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Now I see a rooster.",
+                    "start": 382.86,
+                    "end": 383.64
+                }
+            ],
+            "summary": "That doesn't really look like him, actually. Oh well. I see a dog in there. Oh, that's very good of you. Now Isee a rooster."
+        },
+        {
+            "topic_id": 11,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "What kind is it?",
+                    "start": 393.44,
+                    "end": 393.96
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "He's a mixture of various things and what do I like about him?",
+                    "start": 395.36,
+                    "end": 401.9
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "That's supposed to suggest that his tail wags.",
+                    "start": 403.26,
+                    "end": 405.88
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "He's very friendly and cheery and always pleased to see you and very kind of affectionate.",
+                    "start": 405.92,
+                    "end": 412.73
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "And he's quite we as well, so he doesn't take up too much space.",
+                    "start": 416.59,
+                    "end": 420.83
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "And he does a funny thing where he chases his tail as well.",
+                    "start": 425.83,
+                    "end": 430.27
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "This is quite amusing.",
+                    "start": 430.29,
+                    "end": 431.25
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Is he aware that this is his own tail that he's chasing?",
+                    "start": 431.31,
+                    "end": 433.41
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "It is, I think it is.",
+                    "start": 433.89,
+                    "end": 434.69
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "He only does it after he's had his dinner.",
+                    "start": 434.71,
+                    "end": 436.27
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "And he'll just all of a sudden just get up and start chasing his tail.",
+                    "start": 437.01,
+                    "end": 440.06
+                }
+            ],
+            "summary": "He's a mixture of various things and what do I like about him. He's very friendly and cheery and always pleased to see you. And he's quite we as well, so he doesn't take up too much space."
+        },
+        {
+            "topic_id": 12,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "He's throwing the living room.",
+                    "start": 440.72,
+                    "end": 444.04
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Probably when he was little he got lots of attention for doing it and it's forever been conditioned.",
+                    "start": 444.1,
+                    "end": 448.64
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Maybe.",
+                    "start": 449.06,
+                    "end": 451.12
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Where did you find this just down here?",
+                    "start": 451.62,
+                    "end": 452.82
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Okay, what are we doing next?",
+                    "start": 455.55,
+                    "end": 462.87
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Okay, I need to discuss the project finance.",
+                    "start": 465.6,
+                    "end": 468.44
+                }
+            ],
+            "summary": "He's throwing the living room. Probably when he was little he got lots of attention for doing it and it's forever been conditioned. Where did you find this just down here. Okay, I need to discuss the project finance."
+        },
+        {
+            "topic_id": 13,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "So according to the brief, we're going to be selling this remote control for 25 euro.",
+                    "start": 472.46,
+                    "end": 476.61
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "And we're aiming to make 15 million euro.",
+                    "start": 477.51,
+                    "end": 483.15
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "So we're going to be selling this on an international scale.",
+                    "start": 483.31,
+                    "end": 486.57
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "And we don't want it to cost any more than 1250 euros.",
+                    "start": 487.48,
+                    "end": 491.9
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Sure.",
+                    "start": 498.14,
+                    "end": 498.43
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "So 50% of the selling price.",
+                    "start": 491.96,
+                    "end": 494.72
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Can we just go over that again?",
+                    "start": 496.62,
+                    "end": 497.64
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "So cost like production cost is all together but selling prices is that wholesale or retail like on the shelf?",
+                    "start": 505.33,
+                    "end": 513.84
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "I don't know I imagine that's a good question.",
+                    "start": 516.42,
+                    "end": 519.62
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "I imagine it probably is our sale actually because it's probably up to the",
+                    "start": 519.7,
+                    "end": 522.78
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "the retailer to sell it for whatever price they want.",
+                    "start": 524.3,
+                    "end": 529.75
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Yes.",
+                    "start": 538.82,
+                    "end": 539.05
+                }
+            ],
+            "summary": "So according to the brief, we're going to be selling this remote control for 25 euro. And we're aiming to make 15 million euro. So we don't want it to cost any more than 1250 euros. So 50% of the selling price."
+        },
+        {
+            "topic_id": 14,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "But I don't know, do you think the fact that it's going to be sold internationally will have a bearing on how we design it at all?",
+                    "start": 531.85,
+                    "end": 538.15
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "I think it will.",
+                    "start": 539.08,
+                    "end": 539.84
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Or right away I'm wondering if there's, like with DVD players, if there are zones.",
+                    "start": 548.33,
+                    "end": 553.57
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Yeah, okay.",
+                    "start": 556.65,
+                    "end": 558.03
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Oh yeah, regions and stuff, yeah.",
+                    "start": 553.95,
+                    "end": 555.55
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Frequencies or something.",
+                    "start": 555.57,
+                    "end": 556.45
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "As well as characters, different keypad styles and symbols.",
+                    "start": 558.53,
+                    "end": 565.15
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Yeah.",
+                    "start": 565.2,
+                    "end": 565.58
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Or for remote control, do you think that'll be.",
+                    "start": 566.01,
+                    "end": 567.86
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "I suppose it depends on how complicated our remote control is.",
+                    "start": 568.36,
+                    "end": 570.94
+                }
+            ],
+            "summary": "But I don't know, do you think the fact that it's going to be sold internationally will have a bearing on how we design it at all. Or right away I'm wondering if there's, like with DVD players, if there are zones."
+        },
+        {
+            "topic_id": 15,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "It does make sense from maybe the design point of view because if you have more complicated characters like European languages then you need more buttons.",
+                    "start": 571.78,
+                    "end": 583.82
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "And then the other thing international is on the topic of price.",
+                    "start": 584.18,
+                    "end": 587.25
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "I'm thinking",
+                    "start": 587.85,
+                    "end": 588.47
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "the price might appeal to a certain market in one region, whereas in another it'll be different.",
+                    "start": 591.06,
+                    "end": 597.96
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Just to characterise the country?",
+                    "start": 598.0,
+                    "end": 600.23
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Like how much money people have to spend on things?",
+                    "start": 600.49,
+                    "end": 603.03
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Or just like basic product positioning.",
+                    "start": 603.05,
+                    "end": 606.43
+                }
+            ],
+            "summary": "It does make sense from maybe the design point of view because if you have more complicated characters like European languages then you need more buttons. And then the other thing international is on the topic of price. Just to characterise the country."
+        },
+        {
+            "topic_id": 16,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "The 25 euro remote control might be a big hit in London.",
+                    "start": 606.47,
+                    "end": 610.71
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Might not be such a big hit in Greece.",
+                    "start": 611.22,
+                    "end": 614.92
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Who knows?",
+                    "start": 615.22,
+                    "end": 615.58
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Good marketing thoughts.",
+                    "start": 620.09,
+                    "end": 620.99
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Oh gosh, I should be writing all this down.",
+                    "start": 621.17,
+                    "end": 622.6
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Right away, I'm making some kind of assumptions about what information we're given here, thinking, okay, trendy probably means something other than just basic, something other than just standard.",
+                    "start": 655.52,
+                    "end": 667.97
+                }
+            ],
+            "summary": "The 25 euro remote control might be a big hit in London, but not in Greece."
+        },
+        {
+            "topic_id": 17,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "So I'm wondering right away, is selling 25 euros, is this gonna be like the premium product?",
+                    "start": 670.37,
+                    "end": 676.37
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Yeah, yeah, like how much does remote control cost?",
+                    "start": 677.21,
+                    "end": 680.37
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Well, 25 euro, I mean, that's about like 18 pounds or something, isn't it?",
+                    "start": 681.92,
+                    "end": 687.49
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Or no, is it as much as that?",
+                    "start": 687.89,
+                    "end": 689.11
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "16, 17, 18 pounds.",
+                    "start": 689.81,
+                    "end": 691.17
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Yeah, I'd say so, yeah.",
+                    "start": 691.21,
+                    "end": 692.85
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "I don't know, I've never bought a remote control, so I don't know how good a remote control that would get you.",
+                    "start": 693.87,
+                    "end": 698.99
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Right, okay.",
+                    "start": 708.68,
+                    "end": 710.24
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "OK.",
+                    "start": 713.86,
+                    "end": 715.24
+                }
+            ],
+            "summary": "So I'm wondering right away, is selling 25 euros, is this gonna be like the premium product. Yeah, yeah, like how much does remote control cost. Well, 25 euro, that's about like 18 pounds or something, isn't it. Or no, is it as much as that. 16, 17, 18 pounds."
+        },
+        {
+            "topic_id": 18,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "But yeah, I suppose it has to look kind of cool and gimmicky.",
+                    "start": 702.01,
+                    "end": 705.0
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Let me just scoot on ahead here.",
+                    "start": 711.58,
+                    "end": 712.9
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Does anybody have anything to add to the finance issue at all?",
+                    "start": 716.08,
+                    "end": 721.44
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Do we have any other background information on how that compares to other?",
+                    "start": 722.8,
+                    "end": 726.97
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "No, actually.",
+                    "start": 727.75,
+                    "end": 728.37
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "That would be useful, wouldn't it, if you knew what your money would get you?",
+                    "start": 728.39,
+                    "end": 732.09
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "No.",
+                    "start": 732.73,
+                    "end": 732.99
+                }
+            ],
+            "summary": "But yeah, I suppose it has to look kind of cool and gimmicky. Do we have any other background information on how that compares to other. No, actually. That would be useful, wouldn't it, if you knew what your money would get you."
+        },
+        {
+            "topic_id": 19,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "The interesting thing about discussing production of remote control for me is that, as you point out, I just don't think remote control is being something people consciously assess in their purchasing habits.",
+                    "start": 754.07,
+                    "end": 767.19
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "It's just like getting shoelaces with shoes or something.",
+                    "start": 767.91,
+                    "end": 772.25
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Five minutes to end of meeting.",
+                    "start": 772.83,
+                    "end": 774.01
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Okay, we're a bit behind.",
+                    "start": 774.25,
+                    "end": 776.05
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "You know what I mean?",
+                    "start": 776.13,
+                    "end": 777.65
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "One way of looking at it would be, well, the people producing television sets, maybe they have to buy remote controls.",
+                    "start": 777.93,
+                    "end": 786.18
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Or another way is maybe people who have TV sets are really fed up with their remote control.",
+                    "start": 786.56,
+                    "end": 790.72
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "And they really want a better one or something.",
+                    "start": 791.22,
+                    "end": 793.62
+                },
+                {
+                    "speaker": "SPEAKER_01",
+                    "text": "My parents went and bought remote controls because they got fed up of having four or five different remote controls for each house.",
+                    "start": 794.48,
+                    "end": 800.4
+                },
+                {
+                    "speaker": "SPEAKER_01",
+                    "text": "Right.",
+                    "start": 800.78,
+                    "end": 800.98
+                },
+                {
+                    "speaker": "SPEAKER_01",
+                    "text": "So for them it was just how many devices is a control.",
+                    "start": 801.42,
+                    "end": 804.24
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Right, so in function one of the priorities might be to combine as many uses.",
+                    "start": 804.54,
+                    "end": 810.39
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Right, so do you think that should be like a main design aim of our remote control?",
+                    "start": 811.59,
+                    "end": 814.57
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Do you know your satellite and your regular tally and your VCR and everything?",
+                    "start": 814.59,
+                    "end": 819.56
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Maybe what we could use as an example of a successful other piece of technology is palm pilots.",
+                    "start": 821.09,
+                    "end": 827.72
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "They're going from being just little scribble boards to cameras, MP3 players, telephones.",
+                    "start": 828.28,
+                    "end": 833.97
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Everything agenda so like I wonder if we might add something new to the to the remote control market such as the lighting in your house or Or even like you know, it's about And what you want to watch like you might put in there or I want to watch such and such and look at that's a good idea so extra functionalities like personally for me at home I've I've combined the audio video of my television set and my DVD player and my CD player and",
+                    "start": 835.27,
+                    "end": 862.08
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "So they all work actually function together, but I have different remote controls for each of them So it's sort of ironic that that then they're in there You know the sound everything it's just one system, but each one's got its own little part",
+                    "start": 862.96,
+                    "end": 879.15
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "OK.",
+                    "start": 884.64,
+                    "end": 885.16
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "OK.",
+                    "start": 892.0,
+                    "end": 893.14
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "I'm going to have to wrap up pretty quickly in the next couple of minutes.",
+                    "start": 886.12,
+                    "end": 890.08
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "I'll just check with nothing else.",
+                    "start": 890.14,
+                    "end": 891.3
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "So anything else anybody wants to add about what they don't like, about remote controls they've used, what they would really like to be part of this new one at all?",
+                    "start": 893.78,
+                    "end": 902.57
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "OK.",
+                    "start": 905.65,
+                    "end": 906.01
+                }
+            ],
+            "summary": "Remote control is not something people consciously assess in their purchasing habits. My parents went and bought remote controls because they got fed up of having four or five different remote controls for each house. So for them it was just how many devices is a control."
+        },
+        {
+            "topic_id": 20,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "You keep losing them.",
+                    "start": 903.15,
+                    "end": 903.83
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "You keep losing them.",
+                    "start": 904.65,
+                    "end": 905.55
+                },
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "You get those ones where you can, if you whistle or make a really high pitched noise, they beep.",
+                    "start": 911.03,
+                    "end": 919.35
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Is that something we'd want to include, do you think?",
+                    "start": 920.81,
+                    "end": 922.45
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "I remember when the first remote control my family had was on a cable, actually the cable between in the TV and big like buttons that sort of like on a blender or something.",
+                    "start": 924.55,
+                    "end": 936.9
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "My goodness.",
+                    "start": 937.0,
+                    "end": 937.66
+                }
+            ],
+            "summary": "You keep losing them. You get those ones where you can, if you whistle or make a really high pitched noise, they beep. Is that something we'd want to include, do you think."
+        },
+        {
+            "topic_id": 21,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "And, you know, and I think about what they are now, it's better, but actually it's still kind of, I don't know, like a massive junkie thing on the table.",
+                    "start": 937.9,
+                    "end": 946.04
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Maybe we could think about how it could be more, you know, streamlined.",
+                    "start": 946.4,
+                    "end": 951.09
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Maybe like a touchscreen or something.",
+                    "start": 951.41,
+                    "end": 952.71
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "something like that, or whatever would be technologically reasonable.",
+                    "start": 953.15,
+                    "end": 956.31
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Okay, it could be that it could be that functionally that doesn't make it any better, but that just the appeal of not having, you know, these days is every people things in people's homes are becoming more and more like chic, you know, nicer materials and might be",
+                    "start": 956.99,
+                    "end": 972.84
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "It'd be worth exploring.",
+                    "start": 975.5,
+                    "end": 976.56
+                }
+            ],
+            "summary": "And, you know, and I think about what they are now, it's better, but actually it's still kind of, I don't know, like a massive junkie thing on the table. It'd be worth exploring."
+        },
+        {
+            "topic_id": 22,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Right, so it is to wrap up.",
+                    "start": 976.58,
+                    "end": 979.65
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "The next meeting is going to be in 30 minutes, so that's about 10 to 12 by my watch.",
+                    "start": 979.77,
+                    "end": 985.98
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "In between now and then, as the industrial designer, you're going to be working on the actual working design of it, so you know what you're doing there.",
+                    "start": 986.0,
+                    "end": 996.17
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "For our user interface, technical functions, I guess, that's what we've been talking about, what it'll actually do.",
+                    "start": 997.91,
+                    "end": 1005.41
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "And marketing executive, you'll be just thinking about what requirements it has to fulfill, and you'll get instructions emailed to you, I guess.",
+                    "start": 1005.95,
+                    "end": 1019.12
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Yeah, so it's the functional design stages next, I guess.",
+                    "start": 1028.11,
+                    "end": 1035.21
+                }
+            ],
+            "summary": "Right, so it is to wrap up. The next meeting is going to be in 30 minutes, so that's about 10 to 12 by my watch. In between now and then, as the industrial designer, you'll be working on the actual working design of it."
+        },
+        {
+            "topic_id": 23,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "And that's the end of the meeting.",
+                    "start": 1036.51,
+                    "end": 1037.65
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "I got that little message a lot of the seniors and I thought I would.",
+                    "start": 1039.58,
+                    "end": 1042.28
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Before we wrap up just to make sure we're all on the same page here, we were given sort of an example of a coffee machine or something, right?",
+                    "start": 1047.22,
+                    "end": 1057.19
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Are we right now on the assumption that our television remote control may have features which go beyond the television?",
+                    "start": 1061.04,
+                    "end": 1066.83
+                },
+                {
+                    "speaker": "SPEAKER_02",
+                    "text": "Or are we keeping sort of like a design commitment to television features?",
+                    "start": 1067.79,
+                    "end": 1073.2
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Okay, well just very quickly because we're supposed to finish now.",
+                    "start": 1073.66,
+                    "end": 1076.8
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "OK.",
+                    "start": 1082.08,
+                    "end": 1082.38
+                }
+            ],
+            "summary": "We were given sort of an example of a coffee machine or something, right. Are we right now on the assumption that our television remote control may have features which go beyond the television. Or are we keeping sort of like a design commitment to television features?"
+        },
+        {
+            "topic_id": 24,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "I guess that's up to us.",
+                    "start": 1077.96,
+                    "end": 1079.0
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "I mean, you probably want some kind of unique selling point of it.",
+                    "start": 1079.02,
+                    "end": 1081.96
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "So, you know.",
+                    "start": 1082.5,
+                    "end": 1083.38
+                },
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "OK. Yeah.",
+                    "start": 1087.02,
+                    "end": 1087.28
+                },
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "OK. Yeah.",
+                    "start": 1093.88,
+                    "end": 1096.07
+                },
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "I know a factor would be production cost.",
+                    "start": 1084.52,
+                    "end": 1086.76
+                },
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "There's a cap there, so it depends on how much you can cram into that price.",
+                    "start": 1087.64,
+                    "end": 1093.18
+                },
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "I think that's the main factor.",
+                    "start": 1096.09,
+                    "end": 1098.45
+                },
+                {
+                    "speaker": "SPEAKER_00",
+                    "text": "OK.",
+                    "start": 1098.61,
+                    "end": 1098.89
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Right.",
+                    "start": 1099.47,
+                    "end": 1099.71
+                }
+            ],
+            "summary": "I guess that's up to us. I mean, you probably want some kind of unique selling point. So, you know. OK."
+        },
+        {
+            "topic_id": 25,
+            "segments": [
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "OK. Well, that's the end of the meeting then.",
+                    "start": 1099.85,
+                    "end": 1101.97
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Thank you all for coming.",
+                    "start": 1106.61,
+                    "end": 1107.41
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Good, I hope that was what they wanted us to do today.",
+                    "start": 1111.11,
+                    "end": 1115.73
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Right.",
+                    "start": 1118.4,
+                    "end": 1118.68
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Uh-huh.",
+                    "start": 1148.61,
+                    "end": 1148.95
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Oh, there it is.",
+                    "start": 1151.86,
+                    "end": 1152.72
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "Oh my goodness.",
+                    "start": 1154.27,
+                    "end": 1154.99
+                },
+                {
+                    "speaker": "SPEAKER_03",
+                    "text": "OK. All right.",
+                    "start": 1155.21,
+                    "end": 1157.11
+                }
+            ],
+            "summary": "OK. Well, that's the end of the meeting then. Thank you all for coming. Good, I hope that was what they wanted us to do today. Right. Uh-huh. Oh, there it is."
+        }
+    ],
+    "action_items": [
+        {
+            "action": "design and your remote control, as you can see it's supposed to be original, trendy and user friendly.",
+            "responsible": "SPEAKER_03",
+            "deadline": null,
+            "source": "SPEAKER_03: So design and your remote control, as you can see it's supposed to be original, trendy and user friendly.",
+            "priority": "Low",
+            "confidence": 0.6
+        }
+    ]
+}
