@@ -23,6 +23,7 @@ huggingface/
 *.mp4
 *.flac
 *.m4a
+*.rm
 
 # Temporary files
 *.tmp
