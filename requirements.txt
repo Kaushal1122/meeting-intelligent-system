@@ -21,3 +21,4 @@ nltk==3.10.2
 requests==2.34.2
 tqdm==4.70.0
 python-dotenv==1.1.1
+sentence-transformers

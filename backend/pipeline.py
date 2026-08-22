@@ -738,7 +738,7 @@ def process_transcript(
             meeting_id,
 
         "audio_file":
-            str(audio_file)
+            audio_file.relative_to(PROJECT_DIR).as_posix()
             if audio_file
             else None,
 
