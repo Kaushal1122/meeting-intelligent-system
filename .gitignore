@@ -17,6 +17,11 @@ __pycache__/
 huggingface/
 .cache/huggingface/
 
+# Data & Output Directories
+data/processed/
+data/ami/amicorpus/
+data/*.json
+
 # Large audio/video files
 *.wav
 *.mp3
@@ -24,6 +29,8 @@ huggingface/
 *.flac
 *.m4a
 *.rm
+*.mpeg
+*.mpg
 
 # Temporary files
 *.tmp

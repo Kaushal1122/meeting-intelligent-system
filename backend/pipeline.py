@@ -14,6 +14,10 @@ from summarization.summarizer import (
     summarize_text
 )
 
+from extraction.task_extractor import (
+    extract_actions_and_decisions
+)
+
 
 # ============================================================
 # PROJECT PATHS
@@ -353,11 +357,11 @@ def load_existing_transcript(
         )
 
     print(
-        "\n✓ Transcript loaded successfully."
+        "\n[OK] Transcript loaded successfully."
     )
 
     print(
-        f"✓ Raw segments: {len(segments)}"
+        f"[OK] Raw segments: {len(segments)}"
     )
 
     return data
@@ -688,7 +692,7 @@ def process_transcript(
     )
 
     print(
-        "\n✓ All topic outputs passed validation."
+        "\n[OK] All topic outputs passed validation."
     )
 
 
@@ -825,36 +829,68 @@ def process_transcript(
     )
 
     print(
-        "✓ Transcript Preparation"
+        "[OK] Transcript Preparation"
     )
 
     print(
-        "✓ Semantic Topic Segmentation"
+        "[OK] Semantic Topic Segmentation"
     )
 
     print(
-        "✓ Topic Context Generation"
+        "[OK] Topic Context Generation"
     )
 
     print(
-        "✓ BART Topic-wise Summarization"
+        "[OK] BART Topic-wise Summarization"
     )
 
     print(
-        "✓ Member 2 Output Validation"
+        "[OK] Member 2 Output Validation"
     )
 
-    print(
-        "\nMember 3 and Member 4 modules "
-        "have NOT been executed."
+    # ========================================================
+    # RUN MEMBER 3
+    # ========================================================
+    
+    print("\n" + "=" * 70)
+    print("STEP 7: MEMBER 3 SEMANTIC EXTRACTION")
+    print("=" * 70)
+    
+    member3_output = extract_actions_and_decisions(
+        member2_data=final_output,
+        model_name="qwen2.5:3b",
+        batch_size=15
     )
-
-    print(
-        f"\nResults saved to:\n"
-        f"{output_file}"
+    
+    member3_output_file = (
+        PROCESSED_DIR / f"{meeting_id}_member3_results.json"
     )
+    
+    with open(
+        member3_output_file,
+        "w",
+        encoding="utf-8"
+    ) as f:
+        json.dump(
+            member3_output,
+            f,
+            indent=4,
+            ensure_ascii=False
+        )
 
-    return final_output
+    print("\n" + "=" * 70)
+    print("MEMBER 3 PIPELINE COMPLETED")
+    print("=" * 70)
+    print("[OK] Semantic Tasks & Decisions Extraction")
+    print("\nMember 4 module has NOT been executed.")
+
+    print(f"\nMember 2 results saved to:\n{output_file}")
+    print(f"Member 3 results saved to:\n{member3_output_file}")
+
+    return {
+        "member2": final_output,
+        "member3": member3_output
+    }
 
 
 # ============================================================
@@ -913,7 +949,7 @@ def run_audio_pipeline(
         print("=" * 70)
 
         print(
-            "\n✓ Skipping audio transcription."
+            "\n[OK] Skipping audio transcription."
         )
 
         transcript_data = load_existing_transcript(
@@ -1212,15 +1248,15 @@ if __name__ == "__main__":
         print("=" * 70)
 
         print(
-            "\n✓ Both inputs were provided."
+            "\n[OK] Both inputs were provided."
         )
 
         print(
-            "✓ Existing transcript will be used."
+            "[OK] Existing transcript will be used."
         )
 
         print(
-            "✓ Audio will NOT be retranscribed."
+            "[OK] Audio will NOT be retranscribed."
         )
 
         print(
@@ -1286,7 +1322,7 @@ if __name__ == "__main__":
         print("=" * 70)
 
         print(
-            "\n✓ Skipping audio transcription."
+            "\n[OK] Skipping audio transcription."
         )
 
         run_transcript_pipeline(
@@ -1311,7 +1347,7 @@ if __name__ == "__main__":
         print("=" * 70)
 
         print(
-            "\n✓ Audio will be processed."
+            "\n[OK] Audio will be processed."
         )
 
         run_audio_pipeline(
