@@ -859,7 +859,7 @@ def process_transcript(
     member3_output = extract_actions_and_decisions(
         member2_data=final_output,
         model_name="qwen2.5:3b",
-        batch_size=15
+        batch_size=3
     )
     
     member3_output_file = (

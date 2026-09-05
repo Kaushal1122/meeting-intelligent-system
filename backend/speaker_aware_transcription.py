@@ -1,12 +1,24 @@
 import os
 import json
+import sys
 from pathlib import Path
+from dotenv import load_dotenv
+
+# Load root .env file if available
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+BACKEND_DIR = PROJECT_ROOT / "backend"
+for p in [PROJECT_ROOT, BACKEND_DIR]:
+    if str(p) not in sys.path:
+        sys.path.insert(0, str(p))
+
+load_dotenv(PROJECT_ROOT / ".env")
 
 import whisperx
 from whisperx.diarize import DiarizationPipeline
 
 from preprocessing.text_cleaner import clean_text
 from preprocessing.speaker_normalizer import normalize_speaker_label
+
 
 
 # ============================================================
@@ -40,6 +52,7 @@ def transcribe_audio(
         raise RuntimeError(
             "HF_TOKEN is not set."
         )
+
 
     audio_file = Path(audio_file)
 
@@ -118,46 +131,47 @@ def transcribe_audio(
 
 
     # --------------------------------------------------------
-    # 5. Speaker diarization
+    # 5. Speaker diarization & Assignment
     # --------------------------------------------------------
 
-    print("\nLoading speaker diarization model...")
+    try:
+        print("\nLoading speaker diarization model...")
 
-    diarize_model = DiarizationPipeline(
-        token=hf_token,
-        device=DEVICE
-    )
+        diarize_model = DiarizationPipeline(
+            token=hf_token,
+            device=DEVICE
+        )
 
-    print("Running speaker diarization...")
+        print("Running speaker diarization...")
 
-    diarization_kwargs = {}
+        diarization_kwargs = {}
 
-    if min_speakers is not None:
-        diarization_kwargs["min_speakers"] = min_speakers
+        if min_speakers is not None:
+            diarization_kwargs["min_speakers"] = min_speakers
 
-    if max_speakers is not None:
-        diarization_kwargs["max_speakers"] = max_speakers
+        if max_speakers is not None:
+            diarization_kwargs["max_speakers"] = max_speakers
 
-    diarize_segments = diarize_model(
-        audio,
-        **diarization_kwargs
-    )
+        diarize_segments = diarize_model(
+            audio,
+            **diarization_kwargs
+        )
 
-    print("Speaker diarization completed.")
+        print("Speaker diarization completed.")
 
+        print("\nAssigning speakers...")
 
-    # --------------------------------------------------------
-    # 6. Assign speakers to transcript
-    # --------------------------------------------------------
+        result = whisperx.assign_word_speakers(
+            diarize_segments,
+            result
+        )
 
-    print("\nAssigning speakers...")
+        print("Speaker assignment completed.")
 
-    result = whisperx.assign_word_speakers(
-        diarize_segments,
-        result
-    )
+    except Exception as e:
+        print(f"\n[WARNING] Speaker diarization could not be completed: {e}")
+        print("[INFO] Proceeding with transcribed dialogue turns without diarization...")
 
-    print("Speaker assignment completed.")
 
 
     # --------------------------------------------------------

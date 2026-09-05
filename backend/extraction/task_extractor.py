@@ -13,7 +13,7 @@ TEAM ROSTER:
 def extract_actions_and_decisions(
     member2_data: dict,
     model_name: str = "qwen2.5:3b",
-    batch_size: int = 15
+    batch_size: int = 3
 ) -> dict:
     topics = member2_data.get("topics", [])
     meeting_id = member2_data.get("meeting_id", "Unknown_Meeting")
@@ -32,7 +32,7 @@ def extract_actions_and_decisions(
             t_id = topic.get("topic_id")
             speakers = ", ".join(topic.get("speakers", []))
             summary = topic.get("summary", "")
-            dialogue = topic.get("text", "")[:350]
+            dialogue = topic.get("text", "")[:200]
             
             context_blocks.append(
                 f"[TOPIC_ID: {t_id}]\nActive Speakers: {speakers}\nSummary: {summary}\nTranscript Excerpt: {dialogue}"
@@ -83,7 +83,7 @@ def extract_actions_and_decisions(
                 options={
                     "temperature": 0.0,
                     "num_ctx": 8192,
-                    "num_predict": -1
+                    "num_predict": 1024
                 }
             )
             
